@@ -1,4 +1,4 @@
-import { insertHeader, insertFooter, insertHead } from "./utils/page-layout.js";
+import { insertHeader, insertFooter, insertHead, insertNavButtons } from "./utils/page-layout.js";
 import { readData } from "./utils/read-data.js";
 import { insertValue } from "./utils/insert-value.js";
 import { years, latest_year, updateYearSpans } from "./utils/update-years.js";
@@ -7,7 +7,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
     await insertHead("Home");
     insertHeader();
-
+    // insertNavButtons();
     // Insert values into homepage cards
     const EXPVAS = await readData("EXPVAS");
     const EXPVAS_stat = "Adult victims of violence";

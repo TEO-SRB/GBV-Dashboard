@@ -273,44 +273,73 @@ table tr:not(:has(th)):hover {
   cursor: pointer;
 }
 
-.home-nav {
-  background-color: #595959;
-  border: 2px solid #00205B;
-  color: #fff;
-}
-
-.blue-nav {
-  background-color: #3878c5;
-  border: 2px solid #00205B;
-}
-
-.blue-nav.active {
-  background-color: #C1D5EC;
-  color: #000;
-  cursor: default;
-}
-
-.purple-nav {
-  background-color: #732777;
-  border: 2px solid #00205B;
-  color: #fff;
-}
-
-.purple-nav.active {
-  background-color: #ce70d2;
-  color: #000;
-}
-
+.home-nav,
+.blue-nav,
+.purple-nav,
 .green-nav {
-  background-color: #68A41E;
-  border: 2px solid #00205B;
-  color: #000;
+  background-color: #00205B;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #fff;
+  position: relative;
+  padding-bottom: 25px;
 }
 
-.green-nav.active {
-  background-color: #1D530E;
-  border: 2px solid #00205B;
-  color: #fff;
+.home-nav::after,
+.blue-nav::after,
+.purple-nav::after,
+.green-nav::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 25px;
+}
+
+.home-nav::after, .home-nav.active {
+  border-bottom: none;
+}
+
+.blue-nav::after, .blue-nav.active {
+  background-color: #3878c5;
+  border-bottom: none;
+}
+
+.purple-nav::after, .purple-nav.active {
+  background-color: #732777;
+  border-bottom: none;
+}
+
+.green-nav::after, .green-nav.active {
+  background-color: #68A41E;
+  color: #000;
+  border-bottom: none;
+}
+
+#nav .row {
+  border-bottom: 25px solid #3878c5;
+}
+
+/* Home tab */
+#nav .row:has(.home-nav.active) {
+  border-bottom-color: #00205B;
+}
+
+/* Police recorded crime tabs */
+#nav .row:has(.blue-nav.active) {
+  border-bottom-color: #3878c5;
+}
+
+/* Survey data tabs */
+#nav .row:has(.purple-nav.active) {
+  border-bottom-color: #732777;
+}
+
+/* Green tabs */
+#nav .row:has(.green-nav.active) {
+  border-bottom-color: #68A41E;
 }
 
 .chart-canvas {
