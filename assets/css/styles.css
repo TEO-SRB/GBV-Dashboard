@@ -284,18 +284,35 @@ table tr:not(:has(th)):hover {
   justify-content: center;
   border: 1px solid #fff;
   position: relative;
-  padding-bottom: 25px;
+  padding-bottom: 30px;
 }
 
 .home-nav::after,
 .blue-nav::after,
 .purple-nav::after,
 .green-nav::after {
-  content: "";
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 25px;
+}
+
+.blue-nav::after {
+  content: "Police recorded crime"
+}
+
+.purple-nav::after {
+  content: "Survey data"
+}
+
+.green-nav::after {
+  content: "";
+}
+
+.blue-nav.active::after,
+.purple-nav.active::after,
+.green-nav.active::after {
+  content: "";
 }
 
 .home-nav::after, .home-nav.active {
