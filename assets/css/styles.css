@@ -301,11 +301,11 @@ table tr:not(:has(th)):hover {
 }
 
 .blue-nav::after {
-  content: "Police recorded crime"
+  content: ""
 }
 
 .purple-nav::after {
-  content: "Survey data"
+  content: ""
 }
 
 .green-nav::after {
