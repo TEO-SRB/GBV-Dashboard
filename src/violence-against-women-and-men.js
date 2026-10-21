@@ -16,13 +16,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     genderDisplay();
     insertNavButtons();
     insertExpandButtons();
-    
-    document.getElementById("caveat-box").innerHTML = `
-    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
-        <i class="bi bi-exclamation-triangle-fill me-2"></i>
-        Caveat text goes here
-    </div>
-    `;
  
     let data = await readData("EXPVLADEQ");    
     let age_data = await readData("EXPGBVAG");
