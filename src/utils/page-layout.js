@@ -119,7 +119,7 @@ export function insertNavButtons() {
             .map(
               (l) => `
                 <li>
-                  <a class="dropdown-item ${getNavClass(l.href)} ${l.href.replace(".html", "-btn") === `${pageKey}-btn` ? "active" : ""}"
+                  <a class="dropdown-item ${l.href.replace(".html", "-btn") === `${pageKey}-btn` ? "active" : ""}"
                     id="${l.href.replace(".html", "-btn")}-mobile"
                     href="${l.href}">
                     ${l.text}
