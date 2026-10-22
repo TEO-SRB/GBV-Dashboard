@@ -9,11 +9,11 @@ export const config = {
         { href: "police-recorded-crime-domestic-abuse.html", text: "Domestic abuse" },
         { href: "police-recorded-crime-homicides.html", text: "Homicides" },
         { href: "domestic-homicides.html", text: "Domestic abuse homicides"},
+        { href: "maps.html", text: "Maps" },
         { href: "violence-against-women-and-men.html", text: "Violence against women and men" },
         { href: "violence-against-girls-and-boys.html", text: "Violence against girls and boys" },
         { href: "domestic-abuse.html", text: "Domestic abuse" },
         { href: "case-processing-times.html", text: "Case processing times" },
-        { href: "maps.html", text: "Maps" },
         { href: "information.html", text: "Information" }
     ],
 

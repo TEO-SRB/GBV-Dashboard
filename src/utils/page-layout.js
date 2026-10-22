@@ -69,9 +69,10 @@ export function insertNavButtons() {
 
   function getNavClass(href) {
 
-    // Index tab
+    // Index/info tab
     if (
-      href === "index.html"
+      href === "index.html" ||
+      href === "information.html"
     ) {
       return "home-nav"
     }
@@ -79,7 +80,8 @@ export function insertNavButtons() {
     // Police recorded crime tabs
     if (
       href.includes("police-recorded-crime") ||
-      href === "domestic-homicides.html"
+      href === "domestic-homicides.html" ||
+      href === "maps.html"
     ) {
       return "blue-nav";
     }
