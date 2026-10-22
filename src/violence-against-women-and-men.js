@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     genderDisplay();
     insertNavButtons();
     insertExpandButtons();
-    
+ 
     let data = await readData("EXPVLADEQ");    
     let age_data = await readData("EXPGBVAG");
 

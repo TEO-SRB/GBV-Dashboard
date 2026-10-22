@@ -16,7 +16,14 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertHeader();
     insertNavButtons();
     genderDisplay();
-    insertExpandButtons()
+    insertExpandButtons();
+
+    document.getElementById("caveat-box").innerHTML = `
+    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
+        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+        Caveat text goes here
+    </div>
+    `;
 
     let data = await readData("PRCVCTM");
     let online_data = await readData("PRCONLCG");

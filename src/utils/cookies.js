@@ -76,9 +76,9 @@ export function initCookieConsent(options = {}) {
   cookieBanner.classList.add('cookies-infobar');
   cookieBanner.innerHTML = `
     <div class="container">
-      <p><strong>Cookies on the Wellbeing Framework webpage</strong></p>
+      <p><strong>Cookies on the Gender-Based Violence Dashboard</strong></p>
       <p>
-        This prototype web page places small amounts of information known as cookies on your device.
+        This prototype dashboard places small amounts of information known as cookies on your device.
         <a href="https://www.nisra.gov.uk/cookies"
            class="cookiesbarlink"
            target="_blank"

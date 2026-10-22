@@ -10,6 +10,14 @@ window.addEventListener("DOMContentLoaded", async () => {
     await insertHead("Maps");
     insertHeader();
     insertNavButtons();
+
+    document.getElementById("caveat-box").innerHTML = `
+        <div class="alert alert-warning h-100 mb-0 d-flex align-items-center">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i>
+            Caveat text goes here
+        </div>
+    `;
+    
     let data = await readData("PRCPD");
     // const da_data = await readData("DOMACLGD");
 
