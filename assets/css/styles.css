@@ -309,7 +309,7 @@ table tr:not(:has(th)):hover {
 }
 
 .purple-nav::after {
-  content: "Survey Data"
+  content: "SD"
 }
 
 .green-nav::after {
@@ -320,15 +320,6 @@ table tr:not(:has(th)):hover {
 .purple-nav.active::after,
 .green-nav.active::after {
   content: "";
-}
-
-@media (min-width: 991px) and (max-width: 1076px) {
-  .home-nav::after,
-  .blue-nav::after,
-  .purple-nav::after,
-  .green-nav::after {
-    content:"";
-  }
 }
 
 .home-nav::after, .home-nav.active {
