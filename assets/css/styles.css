@@ -305,15 +305,18 @@ table tr:not(:has(th)):hover {
 }
 
 .blue-nav::after {
-  content: "PRC"
+  content: "PRC";
+  font-weight: 450;
 }
 
 .purple-nav::after {
-  content: "Survey data"
+  content: "Survey data";
+  font-weight: 450;
 }
 
 .green-nav::after {
   content: "Administrative data";
+  font-weight: 450;
 }
 
 @media (min-width: 1300px) and (max-width: 1734px) {
@@ -328,12 +331,6 @@ table tr:not(:has(th)):hover {
   .green-nav::after {
     content: "";
   }
-}
-
-.blue-nav.active::after,
-.purple-nav.active::after,
-.green-nav.active::after {
-  content: "";
 }
 
 .home-nav::after, .home-nav.active {
