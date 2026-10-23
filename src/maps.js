@@ -4,6 +4,7 @@ import { plotMap } from "./utils/plot-map.js";
 import { populateInfoBoxes } from "./utils/info-boxes.js";
 import { downloadButton } from "./utils/download-button.js";
 import { config } from "./config/config.js";
+import { caveatLink } from "./utils/caveat-link.js";
 
 window.addEventListener("DOMContentLoaded", async () => {
 
@@ -12,10 +13,15 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertNavButtons();
 
     document.getElementById("caveat-box").innerHTML = `
-        <div class="alert alert-warning h-100 mb-0 d-flex align-items-center">
-            <i class="bi bi-exclamation-triangle-fill me-2"></i>
-            Caveat text goes here
-        </div>
+    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
+        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+        <span>
+            Caveat text goes here.
+            <a href="#" id="caveat-link">
+                Click here for more information.
+            </a>
+        </span>
+    </div>
     `;
     
     let data = await readData("PRCPD");
@@ -128,6 +134,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         ]
     );
 
+        caveatLink();
         insertFooter();
 
 });

@@ -9,6 +9,7 @@ import { violencePercentage } from "./utils/violence-percentage.js";
 import { downloadButton } from "./utils/download-button.js";
 import { config } from "./config/config.js";
 import { insertExpandButtons } from "./utils/expand-buttons.js";
+import { caveatLink } from "./utils/caveat-link.js";
 
 window.addEventListener("DOMContentLoaded", async () => {
 
@@ -21,7 +22,12 @@ window.addEventListener("DOMContentLoaded", async () => {
     document.getElementById("caveat-box").innerHTML = `
     <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
         <i class="bi bi-exclamation-triangle-fill me-2"></i>
-        Caveat text goes here
+        <span>
+            Caveat text goes here.
+            <a href="#" id="caveat-link">
+                Click here for more information.
+            </a>
+        </span>
     </div>
     `;
 
@@ -190,6 +196,7 @@ Please refer to the technical notes for further information on the strengths and
             ]
         );
 
+        caveatLink();
         insertFooter();
 
 })
