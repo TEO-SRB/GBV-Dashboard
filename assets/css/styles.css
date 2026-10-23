@@ -305,7 +305,7 @@ table tr:not(:has(th)):hover {
 }
 
 .blue-nav::after {
-  content: "PRC";
+  content: "PRC data";
   font-weight: 450;
 }
 
