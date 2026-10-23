@@ -309,11 +309,25 @@ table tr:not(:has(th)):hover {
 }
 
 .purple-nav::after {
-  content: "SD"
+  content: "Survey data"
 }
 
 .green-nav::after {
-  content: "MI";
+  content: "Administrative data";
+}
+
+@media (min-width: 1300px) and (max-width: 1734px) {
+  .green-nav::after {
+    font-size: small;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1299px) {
+  .blue-nav::after,
+  .purple-nav::after,
+  .green-nav::after {
+    content: "";
+  }
 }
 
 .blue-nav.active::after,
@@ -343,7 +357,7 @@ table tr:not(:has(th)):hover {
 }
 
 #nav .row {
-  border-bottom: 25px solid #3878c5;
+  border-bottom: 15px solid #3878c5;
 }
 
 /* Home tab */
