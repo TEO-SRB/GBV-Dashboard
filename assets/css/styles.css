@@ -607,3 +607,11 @@ a.cookiesbarlink {
   font-weight: 300;
   line-height: 1.2;
 }
+
+.blue-bg.card-footer,
+.purple-bg.card-footer {
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
