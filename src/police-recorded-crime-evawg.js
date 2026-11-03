@@ -188,7 +188,7 @@ Changes in legislation and crime‑recording practices should be considered when
 The Protection from Stalking Act (NI) 2022 introduced a new specific stalking offence and an offence of threatening or abusive behaviour from April 2022, increasing identification and reporting.
 Between Apr 2018–Apr 2023, Home Office rules required recording both a conduct offence and any additional offence in the same incident, leading to some double‑counting.
 From May 2023, this was reversed so that the conduct/behaviour offence is recorded only if it is the most serious offence, contributing to falls seen in 2023/24. These factors should be taken into account when comparing trends over time.<br>
-Please refer to the technical notes for further information on the strengths and limitations of the data.
+Please refer to the technical report for further information on the strengths and limitations of the data.
     <li>In 2022, the PSNI published its first <a href="https://www.psni.police.uk/safety-and-support/keeping-safe/tackling-violence-against-women-and-girls/violence-against-women#:~:text=As%20part%20of%20our%20commitment%20to%20tackling%20VAWG%2C%20we%20launched,from%20fear%2C%20intimidation%20and%20harassment." target=" blank">Tackling Violence against Women and Girls Action Plan</a>, setting out how the force planned to address this issue locally.</li>
     <li>For further detail on how police recorded crime statistics are collected and processed, please refer to the <a href="https://www.psni.police.uk/sites/default/files/2025-11/Police%20Recorded%20Crime%20User%20Guide.pdf" target=" blank">PSNI Recorded Crime User Guide</a>.</li>
 </ul>`

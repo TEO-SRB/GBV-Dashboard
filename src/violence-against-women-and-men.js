@@ -175,7 +175,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><strong>What it tells us:</strong> These figures reflect people's own accounts of experiences like domestic abuse, sexual violence, and coercive control. They provide insight into the prevalence of gender-based violence beyond what is reported to authorities.</li>
             <li><strong>Why it matters:</strong> Survey data helps uncover the hidden picture—many victims do not report incidents to the police. Understanding these patterns is crucial for designing prevention strategies and support services.</li>
             <li><strong>How to use it:</strong> Use these insights to identify gaps between reported and actual experiences, and to inform outreach, education, and policy development. They can guide resource allocation for services that address underreported forms of abuse.</li>
-            <li><strong>Strengths/Limitations:</strong> Please refer to the technical notes for further information on the strengths and limitations of the data.</li>
+            <li><strong>Strengths/Limitations:</strong> Please refer to the technical report for further information on the strengths and limitations of the data.</li>
         </ul>`
         
         ]

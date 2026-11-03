@@ -149,7 +149,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><strong>How to use it:</strong> Use these figures to inform domestic abuse strategies and training for frontline staff.</li>
             <li><strong>Strengths/Limitations:</strong> Data depends on police identification and victim disclosure; some cases may not be flagged as domestic abuse.<br>
             It is widely accepted that there is under-reporting of domestic abuse incidents to the police and so these publications only provide an indication of the true extent of domestic abuse.<br>
-            Please refer to the technical notes for further information on the strengths and limitations of the data.</li>
+            Please refer to the technical report for further information on the strengths and limitations of the data.</li>
         </ul>`
             ]
         );   
