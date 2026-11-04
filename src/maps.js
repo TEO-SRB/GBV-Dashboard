@@ -111,7 +111,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             Crime population rates are calculated using the Northern Ireland mid-year population estimates published by NISRA.<br>
             Violence with injury includes homicide and death/serious injury by unlawful driving.</p>`,
 
-            `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the Police Service of Northern Ireland (PSNI) from the Northern Ireland Statistics and Research Agency (NISRA).</p>
+            `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
             <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>
             <p>While the PSNI does not fall within the jurisdiction of the Home Office, the practices and procedures of the Home Office’s notable offence list are followed and applied within Northern Ireland.</p>
             <p>The Crime recording process starts at the point at which an incident comes to the attention of police. This may be brought through a call for service from a member of the public, an incident being referred to the police by another agency or being identified by the police directly.</p>
@@ -119,9 +119,10 @@ window.addEventListener("DOMContentLoaded", async () => {
             <ul>
                 <li><a href="${config.portal_url}table/PRCPD" target="_blank">Police recorded crime and sanction outcomes</a> - by Local Government District and crime type</li>
             </ul>
-            <p>The data presented on this page is sourced from the PSNI financial year update and was last updated in May. This page is updated twice annually: in May, following the publication of the PSNI financial year update, and in November, following the publication of the Annual Trends in Police Recorded Crime report. We do not update this page using the monthly PSNI releases. For the most up-to-date data, please refer to the link below.</p>
+            <p><strong>Data source</strong>: Data is sourced from the PSNI Domestic Abuse Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>
+            <p>Please note, this page is not updated using the PSNI Homicide bulletin or quarterly releases. For the most up-to-date homicide data, please refer to the link below.</p>
             <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
-            <p><strong>Updates:</strong> Data updated in May and November each year.</p>`,
+            <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
             `<p>This tab displays maps showing where offences occurred, based on police recorded crime data.</p>
             <ul>

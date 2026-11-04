@@ -150,9 +150,11 @@ window.addEventListener("DOMContentLoaded", async () => {
         <ul>
             <li><a href="${config.portal_url}table/PRCHOM" target="_blank">Victims of homicide recorded</a> - by victim age and gender</li>
         </ul>
-<p>The data presented on the page is sourced from the PSNI financial year update and was last updated in May. This page is updated twice annually: in May, following the publication of the PSNI financial year update, and in November, following the publication of the Annual Trends in Police Recorded Crime report. We do not update this page using the monthly PSNI releases. For the most up-to-date data, please refer to the link below.<p>
+<p><strong>Data source</strong>: Data is sourced from the PSNI Police Recorded Crime Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p> 
+<p>Please note, this page is not updated using the PSNI Homicide bulletin or monthly police recorded crime releases. For the most up-to-date homicide data, please refer to the link below.
+</p>
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
-<p><strong>Updates:</strong> Data updated in May and November each year.</p>
+<p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>
                 </p>`,
 
                 `<p>This tab presents data on the number of homicide victims in Northern Ireland, including their age and gender. Homicide recorded by the police includes murder, manslaughter, corporate manslaughter and infanticide.<p>

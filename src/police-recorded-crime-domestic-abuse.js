@@ -125,22 +125,22 @@ window.addEventListener("DOMContentLoaded", async () => {
         `<p>The <strong>Police Service of Northern Ireland (PSNI)</strong> has adopted the definition of domestic violence and abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as:</p>
         <p>'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former partner or family member.'</p>
         <p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
+        <p>In the bar chart titled 'Adult victims of domestic abuse crimes ${latest_year}, by crime type', the category 'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
         <p>Police recorded crime data on this page includes those circumstances where domestic abuse forms part of the offence. Victim gender is available, however police recorded domestic abuse crime does not identify gender-based violence.</p>`,
 
         `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
         <p>The data presented on this page are <strong>Official Statistics</strong> derived from police recorded crime data.</p>
         <p>While the PSNI does not fall within the jurisdiction of the Home Office, the practices and procedures of the Home Office's notable offence list are followed and applied within Northern Ireland.</p>
         <p>The crime recording process starts at the point at which an incident comes to the attention of police. This may be brought through a call for service from a member of the public, an incident being referred to the police by another agency or being identified by the police directly.</p>
-        <p>The time series chart 'Victims of domestic abuse crimes, 2004/05 to ${latest_year}' includes victims of all ages. However, the bar chart 'Adult victims of domestic abuse crimes ${latest_year}, by crime type' only includes adult victims (18+).</p>
-        <p>In the bar chart titled 'Adult victims of domestic abuse crimes ${latest_year}, by crime type', the category 'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
         <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
             <li><a href="${config.portal_url}table/DOMACVAC" target="_blank">Domestic abuse crimes</a> - by victim gender and offence type</li>
             <li><a href="${config.portal_url}table/DOMACVG" target="_blank">Domestic abuse crimes</a> - by victim gender</li>      
         </ul>
-        <p>The data presented on this page is sourced from the PSNI Domestic Abuse Statistics financial year update and was last updated in May. This page is updated twice annually: in May, following the publication of the PSNI Domestic Abuse Statistics financial year update, and in November, following the publication of the Domestic Abuse Annual Trends report. This ensures that the information presented reflects the latest available annual domestic abuse statistics published by the PSNI.</p>
+        <p><strong>Data source</strong>: Data is sourced from the PSNI Domestic Abuse Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>
+        <p>Please note, this page is not updated using the PSNI quarterly releases. For the most up-to-date data, please refer to the link below.</p>
         <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics" target="_blank">PSNI - Domestic Abuse Statistics website</a>.</p>
-        <p><strong>Updates:</strong> Data updated in May and November each year.</p>`,
+        <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
         `<p>This tab focuses on incidents flagged as domestic abuse, broken down by sex of victim and type of offence.</p>
         <ul>
