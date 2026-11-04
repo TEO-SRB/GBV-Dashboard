@@ -319,18 +319,15 @@ table tr:not(:has(th)):hover {
   font-weight: 450;
 }
 
-@media (min-width: 1300px) and (max-width: 1734px) {
-  .green-nav::after {
-    font-size: small;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1299px) {
-  .blue-nav::after,
-  .purple-nav::after,
-  .green-nav::after {
-    content: "";
-  }
+.blue-nav::after,
+.purple-nav::after,
+.green-nav::after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: clamp(0.8rem, 0.9vw, 0.95rem);
+  line-height: 1;
 }
 
 .home-nav::after, .home-nav.active {
