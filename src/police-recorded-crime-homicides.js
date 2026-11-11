@@ -23,7 +23,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
         <i class="bi bi-exclamation-triangle-fill me-2"></i>
         <span>
-            Caveat text goes here.
+            The figures presented here relate to homicide victims disaggregated by gender. While they provide important evidence on the most serious outcomes of violence, they should not be interpreted as a measure of femicide, for which there is no agreed definition in Northern Ireland.
             <a href="#" id="caveat-link">
                 Click here for more information.
             </a>
