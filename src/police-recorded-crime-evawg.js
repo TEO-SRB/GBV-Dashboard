@@ -20,10 +20,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertExpandButtons();
 
     document.getElementById("caveat-box").innerHTML = `
-    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
-        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+    <div class="alert alert-danger mt-2 mb-0 h-100 d-flex align-items-center">
+       
         <span>
-            The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). The figures represent police recorded crime offences disaggregated by gender, rather than offences identified as gender-based violence.
+            <b>For information:</b> The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). The figures represent police recorded crime offences disaggregated by gender, rather than offences identified as gender-based violence.
             <a href="#" id="caveat-link">
                 Click here for more information.
             </a>

@@ -13,10 +13,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertNavButtons();
 
     document.getElementById("caveat-box").innerHTML = `
-    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
-        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+    <div class="alert alert-danger mt-2 mb-0 h-100 d-flex align-items-center">
+   
         <span>
-            The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). While this interim set has been developed to support this approach, it does not capture all forms of VAWG and may include offences that are not related to this issue.
+             <b>For information:</b> The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). While this interim set has been developed to support this approach, it does not capture all forms of VAWG and may include offences that are not related to this issue.
             <a href="#" id="caveat-link">
                 Click here for more information.
             </a>

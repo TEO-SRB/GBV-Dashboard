@@ -20,10 +20,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertExpandButtons();
 
     document.getElementById("caveat-box").innerHTML = `
-    <div class="alert alert-warning mt-2 mb-0 h-100 d-flex align-items-center">
-        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+    <div class="alert alert-danger mt-2 mb-0 h-100 d-flex align-items-center">
+     
         <span>
-            The figures presented here relate to homicide victims disaggregated by gender. While they provide important evidence on the most serious outcomes of violence, they should not be interpreted as a measure of femicide, for which there is no agreed definition in Northern Ireland.
+            <b>For information:</b> The figures presented here relate to homicide victims disaggregated by gender. While they provide important evidence on the most serious outcomes of violence, they should not be interpreted as a measure of femicide, for which there is no agreed definition in Northern Ireland.
             <a href="#" id="caveat-link">
                 Click here for more information.
             </a>
