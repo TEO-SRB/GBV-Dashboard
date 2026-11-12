@@ -315,7 +315,7 @@ table tr:not(:has(th)):hover {
 }
 
 .green-nav::after {
-  content: "Administrative data";
+  content: "Criminal case data";
   font-weight: 450;
 }
 
