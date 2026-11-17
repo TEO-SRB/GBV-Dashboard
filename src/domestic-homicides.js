@@ -157,12 +157,12 @@ window.addEventListener("DOMContentLoaded", async () => {
         populateInfoBoxes(
             ["Definitions", "Source", "What does the data mean?"],
             [
-            `<p>Within police recorded crime, the offences of murder, manslaughter, infanticide and corporate manslaughter are classified as homicide.<br>
-           <p> The year in which a homicide is recorded for crime recording purposes is based on the date it is established as homicide; the date of death may have occurred in a previous year.<br></p>
-        <p>A domestic abuse homicide is one which involves a domestic motivation, meaning the victim and perpetrator had an intimate (current or former) or familial relationship. The PSNI has adopted the definition of domestic abuse as outlined in the Northern Ireland Government Strategy ‘Stopping Domestic and Sexual Violence and Abuse in Northern Ireland’ as: Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identify, sexual orientation or any form of disability)by a current or former intimate partner or family member. Therefore, if a homicide arises within that relationship context (partner or family) and stems from behaviours aligned with domestic abuse it is recorded as a domestic abuse motivated homicide.<br>
-
-
-</p>`,
+            `<p>This tab presents data on the number of domestic abuse homicide victims in Northern Ireland, including their age and gender.</p>
+           <p> Homicides recorded by the police include murder, manslaughter, corporate manslaughter and infanticide. Deaths caused through unlawful driving are not homicide offences. They are presented in the dashboard in the violence with injury classification. The year in which a homicide is recorded for crime recording purposes is based on the date it is established as homicide; the date of death may have occurred in a previous year.</p>
+        <p>A domestic abuse homicide is one which involves a domestic abuse motivation, meaning the victim and perpetrator had an intimate (current or former) or familial relationship.</p>
+        <p>The <b>Police Service of Northern Ireland (PSNI)</b> has adopted the definition of domestic violence and abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as:
+'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former partner or family member.'<br>
+Therefore, if a homicide arises within that relationship context (partner or family) and stems from behaviours aligned with domestic abuse, it is recorded as a domestic abuse motivated homicide.</p>`,
 
 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
 <p>The data presented on this page are <strong>Official Statistics</strong> derived from police recorded crime data.</p>
@@ -178,12 +178,12 @@ window.addEventListener("DOMContentLoaded", async () => {
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics" target="_blank">PSNI - Domestic Abuse Statistics website</a>.</p>
 <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
-`<p>This tab presents police recorded crime data on homicide victims by sex, including cases linked to domestic abuse.</p>
+`<p>This tab presents data on homicides recorded by the police in Northern Ireland as having a domestic abuse motivation, including information on the victim’s age, gender and relationship to the offender.</p>
 <ul>
     <li><strong>What it tells us:</strong> Homicide is rare but represents the most severe outcome of gender-based violence. Women are disproportionately victims in domestic-related cases.</li>
     <li><strong>Why it matters:</strong> These figures underline the importance of early intervention and risk assessment to prevent escalation.</li>
     <li><strong>How to use it:</strong> Incorporate insights into high-risk case management and multi-agency safeguarding approaches.</li>
-    <li><strong>Strengths/Limitations:</strong> Please refer to the technical report for further information on the strengths and limitations of the data.<br>
+    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report for further information on the strengths and limitations of the data.<br>
  </li>
 </ul>`
             

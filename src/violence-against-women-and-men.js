@@ -147,6 +147,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         ["Definitions", "Source", "What does the data mean?"],
         [
         `<p>The <strong>Northern Ireland Life and Times (NILT) Survey</strong> defines gender-based violence as 'violence directed against a person because of that person's gender, or violence that affects people of a particular gender disproportionately. It does not only relate to physical assaults but also includes words and actions that can cause someone to feel afraid, anxious or humiliated'.</p>
+        <p>Respondents are asked, <em>‘Based on this definition, and regardless of your gender, have you personally experienced any of the following in the last five years?’</em></p>
         <ul>
             <li><strong>Physical Violence:</strong> Being beaten, slapped, pushed, kicked, choked, restrained, a weapon or any other force being used against you in a way that causes harm.</li>
             <li><strong>Sexual Violence:</strong> Being forced or coerced into having sex against your will or into sexual practices or acts you didn't want to engage in, including unwanted attempted sex and sexual acts, or being choked or restrained.</li>
@@ -157,11 +158,11 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>While this definition of gender-based violence is provided, respondents must make their own assessment as to whether an experience occurred because of their gender. As a result, some respondents may not identify themselves as victims due to differences in awareness, understanding and perceptions of gender-based violence. Alternatively, some respondents may misunderstand and report as gender-based violence when the violence is not related to their gender.</p>
         `,
 
-        `<p>The <strong>Northern Ireland Life and Times (NILT) Survey</strong> records the attitudes, values, and beliefs of adults to a wide range of social policy issues.  This annual survey has been running since 1998 and is administered by ARK. ARK is Northern Ireland's social policy hub and is made up of academics across QUB and Ulster University.</p>
-        <p>The data presented on this page are <strong>Official Statistics</strong> derived from the Northern Ireland Life and Times (NILT) Survey.</p>
+        `<p>The <strong>Northern Ireland Life and Times (NILT) Survey</strong> is an annual survey, administered by ARK, that measures the attitudes, values and beliefs of adults <b>aged 18 years or over</b> on a wide range of social policy issues. It has been running since 1998 and provides a time series on key social and policy issues.</p>
+        <p>Fieldwork for the NILT Survey is carried out annually between September and January. In 2024, a total of 1,204 respondents aged 18 years or over completed the NILT survey.</p>
+        <p>The Gender-Based Violence module of the NILT is sponsored by The Executive Office.</p>
+        <p>The data presented on this page are <strong>Official Statistics</strong> derived from the Northern Ireland Life and Times (NILT) Survey published by <b>The Executive Office (TEO)</b>.</p>
         <p>Its mission is to monitor the attitudes and behaviour of people in Northern Ireland annually to provide a time-series and a public record of how our attitudes and behaviour develop on a wide range of social policy issues. </p>
-        <p>Fieldwork for the NILT Survey is carried out annually between September and January. In 2024, a total of 1,204 respondents aged <strong>18 years or over</strong> completed the NILT survey. </p>
-        <p>The Violence Against Women and Girls (VAWG) module of NILT is sponsored by The Executive Office.</p>
         <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
             <li><a href="${config.portal_url}table/EXPVLADEQ" target="_blank">Experience of gender-based violence - adults</a> - by violence type and equality group</li>
@@ -170,12 +171,12 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-evawg" target="_blank">The Executive Office website</a>.</p>
         <p><strong>Updates:</strong> Data updated annually.</p>`,
 
-        `<p>This tab presents findings from the Northern Ireland Life and Times survey, capturing self-reported experiences of violence and abuse among women and men.</p>
+        `<p>This tab presents findings from the Northern Ireland Life and Times survey, capturing self-reported experiences of violence and abuse among women and men aged 18 years or over.</p>
         <ul>
             <li><strong>What it tells us:</strong> These figures reflect people's own accounts of experiences like domestic abuse, sexual violence, and coercive control. They provide insight into the prevalence of gender-based violence beyond what is reported to authorities.</li>
             <li><strong>Why it matters:</strong> Survey data helps uncover the hidden picture—many victims do not report incidents to the police. Understanding these patterns is crucial for designing prevention strategies and support services.</li>
             <li><strong>How to use it:</strong> Use these insights to identify gaps between reported and actual experiences, and to inform outreach, education, and policy development. They can guide resource allocation for services that address underreported forms of abuse.</li>
-            <li><strong>Strengths/Limitations:</strong> Please refer to the technical report for further information on the strengths and limitations of the data.</li>
+            <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report for further information on the strengths and limitations of the data.</li>
         </ul>`
         
         ]

@@ -122,12 +122,22 @@ window.addEventListener("DOMContentLoaded", async () => {
         populateInfoBoxes(
             ["Definitions", "Source", "What does the data mean?"],
             [
-        `<p>The <strong>Police Service of Northern Ireland (PSNI)</strong> has adopted the definition of domestic violence and abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as:</p>
+        `<p>Domestic abuse is not an offence type but a flag applied to incidents and crimes that meet the definition of domestic abuse used by PSNI.</p>
+        <p>The <strong>Police Service of Northern Ireland (PSNI)</strong> has adopted the definition of domestic violence and abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as:</p>
         <p>'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former partner or family member.'</p>
-        <p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
-        <p>In the bar chart titled 'Adult victims of domestic abuse crimes ${latest_year}, by crime type', the category 'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
-        <p>Police recorded crime data on this page includes those circumstances where domestic abuse forms part of the offence. Victim gender is available, however police recorded domestic abuse crime does not identify gender-based violence.</p>`,
+        <p>The tab presents data on victims of domestic abuse crimes recorded by PSNI overall and by the following crime types:</p>
+        <ul>
+                <li>Violence with injury
+                <li>Violence without injury
+                <li>Stalking and harassment
+                <li>All other offences </ul>
 
+        <p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
+        <p>'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
+        <p>There is overlap between the domestic abuse statistics presented here and the offences included on the interim VAWG offences tab. For example, some offences within the interim VAWG offence set will also be included in the domestic abuse statistics where they have been flagged as domestic abuse related. However, the domestic abuse statistics also include offences from other offence categories that are not currently part of the interim VAWG offence set.</p>
+        <p>While victim gender is available, police recorded domestic abuse crime does not identify gender-based violence.</p>`,
+
+        
         `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
         <p>The data presented on this page are <strong>Official Statistics</strong> derived from police recorded crime data.</p>
         <p>While the PSNI does not fall within the jurisdiction of the Home Office, the practices and procedures of the Home Office's notable offence list are followed and applied within Northern Ireland.</p>
@@ -142,15 +152,16 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics" target="_blank">PSNI - Domestic Abuse Statistics website</a>.</p>
         <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
-        `<p>This tab focuses on incidents flagged as domestic abuse, broken down by sex of victim and type of offence.</p>
+        `<p>This tab focuses on incidents flagged as domestic abuse, broken down by gender of victim and type of offence.</p>
         <ul>
             <li><strong>What it tells us:</strong> It shows the distribution of police recorded domestic abuse offences by gender, indicating higher numbers recorded for women while showing that men are also victims.</li>
             <li><strong>Why it matters:</strong> Highlights the need for tailored support services and prevention strategies within families and relationships.</li>
             <li><strong>How to use it:</strong> Use these figures to inform domestic abuse strategies and training for frontline staff.</li>
-            <li><strong>Strengths/Limitations:</strong> Data depends on police identification and victim disclosure; some cases may not be flagged as domestic abuse.<br>
-            It is widely accepted that there is under-reporting of domestic abuse incidents to the police and so these publications only provide an indication of the true extent of domestic abuse.<br>
-            Please refer to the technical report for further information on the strengths and limitations of the data.</li>
-        </ul>`
+            <li><strong>Strengths/Limitations:</strong> Data depends on police identification and victim disclosure; some cases may not be flagged as domestic abuse.</li>
+            <li>It is widely accepted that there is under-reporting of domestic abuse incidents to the police and so these statistics only provide an indication of the true extent of domestic abuse.</li>
+            <li>Changes in legislation and crime recording practices should be considered when interpreting trends in stalking and harassment. The Protection from Stalking Act (NI) 2022 introduced a new specific stalking offence and an offence of threatening or abusive behaviour from April 2022, increasing identification and reporting. Between April 2018 – April 2023, Home Office rules required recording both a conduct offence and any additional offence in the same incident, leading to some double counting. From May 2023, this was reversed so that the conduct/behaviour offence is recorded only if it is the most serious offence, contributing to falls seen in 2023/24. These factors should be taken into account when comparing trends over time.</li></ul>
+        <p>Please refer to the Technical Report for further information on the strengths and limitations of the data.</p>
+        `
             ]
         );   
 

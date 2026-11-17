@@ -228,7 +228,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   populateInfoBoxes(
     ["Definitions", "Source", "What does the data mean?"],
     [
-    `<p>As part of the introduction to the module, respondents were advised of the government's definition of domestic violence and abuse, that is: 'threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former intimate partner or family member.'</p>
+    `<p>As part of the introduction to the module, respondents were advised of the government's definition of domestic violence and abuse, as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as: 'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former intimate partner or family member.'</p>
     <p>Personal experiences of domestic abuse were subdivided into three main offence groups: non-physical abuse; threats; and force. To reflect the fact that people's circumstances, lifestyles, and thus, associated levels of risk of domestic abuse change over time it is important to examine the experience of domestic abuse both in recent years and over a lifetime.</p>
     <p><strong>Non-physical abuse:</strong> Prevented you from having your fair share of the household money or taken money from you, controlled how household work or childcare was done, enforced rules or activities which humiliated you, repeatedly put you down so you felt worthless, kept track of where you went or how you spent your time, monitored your mail, calls, emails, texts or social media, stopped you from seeing friends and/or relatives.</p>
     <p><strong>Threats:</strong> Threatened to hurt someone close to you (your children, family members, friends, or pets), threatened to hurt your current/previous partner, threatened to hurt you, threatened to kill you.</p>
@@ -238,9 +238,9 @@ window.addEventListener("DOMContentLoaded", async () => {
     <ul>${relationship_definitions}</ul>`,
 
     `<p>This section presents findings from the 2018/19 <strong>Northern Ireland Safe Community Survey (NISCS)</strong>. The NISCS (previously known as the Northern Ireland Crime Survey) is a representative, continuous, personal interview survey of the experiences and perceptions of crime, of adults living in private households throughout Northern Ireland.</p>
-    <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from the Northern Ireland Safe Community Survey (NISCS).</p>
+    <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from the Northern Ireland Safe Community Survey (NISCS) published by the <b>Department of Justice (DoJ)</b>.</p>
     <p>A self-completion module capturing respondents' experiences of domestic abuse, was asked as part of the NISCS in 2018-19. The findings below relate to the 2,135 respondents aged between 16 and 74 years, who completed the domestic abuse module. The self-completion module uses computer-assisted self-interviewing (CASI), a technique which affords anonymity and confidentiality to respondents on a subject matter that could be very sensitive and personal to victims. </p>
-    <p>The survey has adopted the definition of domestic abuse as outlined in the Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland'.</p>
+    <p>The survey has adopted the definition of domestic abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland'.</p>
     <p>Two measures of domestic abuse are adopted: lifetime; and the last three years. Lifetime prevalence is a good indicator of the percentage of NISCS respondents who have experienced domestic abuse at some point in their lives since age 16. The previous three years is a good indicator of recent levels of domestic abuse. </p>
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
@@ -249,7 +249,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><a href="${config.portal_url}table/DARPV" target="_blank">Domestic abuse - relationship of perpetrator to victim</a> - </li>        
         </ul>
     <p>Statistical publications can be found on the <a href="https://www.justice-ni.gov.uk/publications/experience-domestic-abuse-findings-201819-northern-ireland-safe-community-survey" target="_blank">Department of Justice website</a>.</p>
-    <p><strong>Updates:</strong> Next update due in 2026; data will be updated biennially thereafter.</p>`,
+    <p><strong>Updates:</strong> Next update due in 2027; data will be updated biennially thereafter.</p>`,
 
     `<p>This tab provides an overview of how common domestic abuse is, based on self-reported experiences from survey respondents.</p>
     <ul>

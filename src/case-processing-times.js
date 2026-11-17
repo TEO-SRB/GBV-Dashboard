@@ -107,13 +107,15 @@ window.addEventListener("DOMContentLoaded", async () => {
         populateInfoBoxes(
             ["Definitions", "Source", "What does the data mean?"],
             [
-            `<p>For case processing times data, sexual offence cases are based on cases where the principal offence (main offence) at disposal was a sexual offence. Where an offender is prosecuted or convicted of several offences on the same occasion, only one offence, the principal offence, is counted. Statistical coverage is restricted to those criminal prosecutions which were brought on behalf of the Police Service for Northern Ireland, the National Crime Agency, the Airport Constabulary or Harbour Police.</p>
+            `<p>Case processing time statistics measure the time taken for criminal cases to progress through the criminal justice system, from the reporting or detection of an offence by police until the conclusion of court proceedings. Processing time is measured as the number of calendar days between the offence reported date and the case dealt with date.</p>
+            <p>This tab presents data on processing times for all criminal cases, alongside sexual offence and domestic abuse related cases. All criminal cases provide a wider comparator, while sexual offence and domestic abuse related cases are used as interim measures to provide insight into the timeliness of cases relevant to violence against women and girls.</p>
+            <p>For case processing times data, sexual offence cases are based on cases where the principal offence (main offence) at disposal was a sexual offence. Where an offender is prosecuted or convicted of several offences on the same occasion, only one offence, the principal offence, is counted. Statistical coverage is restricted to those criminal prosecutions which were brought on behalf of the Police Service for Northern Ireland, the National Crime Agency, the Airport Constabulary or Harbour Police.</p>
             <p>For domestic abuse related cases, the average case processing time relates to cases where at least one offence in the case was prosecuted under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021.</p>`,
 
 `<p>The most recent average Case Processing Times for Criminal Cases dealt with in the Crown Court and in magistrates’ courts in Northern Ireland is for cases completed in 2025/26 and refers to the time from which the offence was reported to, or detected by, the police.</p>
-<p>The data presented on this page are <strong>Official Statistics</strong> derived from case processing data for criminal cases dealt with at courts in Northern Ireland.</p>
+<p>The data presented on this page are <strong>Official Statistics</strong> derived from administrative records held within the Causeway Data Sharing Mechanism, a shared information system used by criminal justice organisations in Northern Ireland. The statistics are published by the <b>Department of Justice (DoJ)</b>.</p>
 <p>This data is based on all court cases – Crown Court, adult magistrates’ court, and youth magistrates’ court.</p>
-<p>Average is measured as the median number of days taken, i.e., the number of days at which 50% of those cases included under counting rules has been completed. This is an overview of the time taken for a case to be disposed at court from the date that case began its journey through the criminal justice system, based on a start point of the date the offence was reported to, or detected by, the PSNI.</p>
+<p>Figures presented on this page show the median time taken for criminal cases dealt with at the Crown Court and magistrates’ courts in Northern Ireland. Processing time is measured as the number of calendar days from the date an offence was reported to the date the case was completed at court, for cases dealt with in the year specified. The median is the number of days within which 50% of cases have been completed.</p>
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
     <ul>
         <li><a href="https://data.nisra.gov.uk/table/INDPRCASEEQ" target="_blank">Processing times for criminal cases</a> - by equality group</li>
@@ -132,7 +134,8 @@ window.addEventListener("DOMContentLoaded", async () => {
     <li><strong>Why it matters:</strong> Delays in case processing can impact victims' confidence in the justice system and prolong trauma. Understanding these timelines helps identify where improvements are needed.</li>
     <li><strong>How to use it:</strong> Use this data to inform discussions on court efficiency, resource allocation, and victim support during lengthy proceedings. It can also guide policy aimed at reducing delays.</li>
     <li><strong>Strengths/Limitations:</strong> Figures reflect completed cases only and may be influenced by, for example, case complexity, availability of court resources, and procedural requirements. They do not capture cases that result in informal resolutions or cases withdrawn before trial.</li>
-</ul>`
+</ul>
+<p>Please refer to the Technical Report for further information on the strengths and limitations of the data.</p>`
 
 
             

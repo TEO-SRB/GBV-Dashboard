@@ -156,15 +156,15 @@ window.addEventListener("DOMContentLoaded", async () => {
             [
             `<p>The tab presents data on victims of the following offences as reported through the PSNI Recorded Crime System:</p>
 <ul>
-    <li>Sexual offences;</li>
-    <li>Stalking and harassment;</li>
-    <li>Violence with injury; and</li>
-    <li>Violence without injury;</li>
+    <li>Sexual offences</li>
+    <li>Stalking and harassment</li>
+    <li>Violence with injury</li>
+    <li>Violence without injury</li>
 
 </ul>
-<p>Victim gender is available, however police recorded crime does not identify gender-based violence.<br>
-Violence with injury includes homicide and death/serious injury by unlawful driving.<br>
-Some of these offences may be flagged by the police as domestic abuse‑related where they meet the domestic abuse definition. These flagged offences are part of overall police recorded crime and are also included within domestic abuse statistics. </p>`,
+<p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
+<p>The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). The figures represent police recorded crime offences disaggregated by gender, rather than offences identified as gender-based violence. While this interim set has been developed to support this approach, it does not capture all forms of VAWG and may include offences that are not related to this issue. Further information on this approach can be found within the Technical Report.</p>
+<p>Some of these offences may be flagged by the police as domestic abuse‑related where they meet the domestic abuse definition. These flagged offences are inlcuded as part of overall police recorded crime presented here and are also included within domestic abuse statistics shown on the ‘Domestic abuse – PRC data’ tab. As domestic abuse is recorded through a separate flag rather than an offence category, the domestic abuse statistics also include offences outside the interim VAWG offence groups. </p>`,
 
 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
 <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>
@@ -179,17 +179,18 @@ Some of these offences may be flagged by the police as domestic abuse‑related 
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
 <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
-`<p>This tab shows police-recorded offences where the victim's gender is known, including sexual offences, stalking and harassment, and violence with or without injury. These figures help us understand patterns of gender-based violence reported to the police.</p>
+`<p>This tab shows police-recorded crime offence categories selected to provide an indication of violence against women and girls disaggregated by gender. The offence categories include sexual offences, stalking and harassment, and violence with or without injury. These figures help us understand patterns of violence against women and girls reported to the police.</p>
 <ul>
     <li><strong>What it tells us:</strong> Women remain disproportionately affected by sexual offences and stalking and harassment, while men also experience significant levels of violence, particularly in certain offence categories.</li>
     <li><strong>Why it matters:</strong> These figures underline the importance of early intervention and risk assessment to prevent escalation.</li>
     <li><strong>How to use it:</strong> Use these figures to identify priority areas for prevention and support services. </li>
-    <li><strong>Strengths/Limitations:</strong> These statistics reflect only those crimes reported to police; they do not capture unreported crimes. Data also depends on police recording practices and a victim’s willingness to report to police. Changes in legislation, changes in rules governing crime recording, or reporting campaigns can influence trends so consider these factors when comparing over time. Practitioners should also interpret trends alongside survey data and community insights. <br></li>
-Changes in legislation and crime‑recording practices should be considered when interpreting trends in stalking and harassment.
-The Protection from Stalking Act (NI) 2022 introduced a new specific stalking offence and an offence of threatening or abusive behaviour from April 2022, increasing identification and reporting.
-Between Apr 2018–Apr 2023, Home Office rules required recording both a conduct offence and any additional offence in the same incident, leading to some double‑counting.
-From May 2023, this was reversed so that the conduct/behaviour offence is recorded only if it is the most serious offence, contributing to falls seen in 2023/24. These factors should be taken into account when comparing trends over time.<br>
-Please refer to the technical report for further information on the strengths and limitations of the data.
+    <li><strong>Strengths/Limitations:</strong> These statistics reflect only those crimes reported to police; they do not capture unreported crimes. Data also depends on police recording practices and a victim’s willingness to report to police. Changes in legislation, changes in rules governing crime recording, or reporting campaigns can influence trends so consider these factors when comparing over time. Practitioners should also interpret trends alongside survey data and community insights.</li>
+    <li>Changes in legislation and crime‑recording practices should be considered when interpreting trends in stalking and harassment.
+    The Protection from Stalking Act (NI) 2022 introduced a new specific stalking offence and an offence of threatening or abusive behaviour from April 2022, increasing identification and reporting.
+    Between April 2018–April 2023, Home Office rules required recording both a conduct offence and any additional offence in the same incident, leading to some double‑counting.
+    From May 2023, this was reversed so that the conduct/behaviour offence is recorded only if it is the most serious offence, contributing to falls seen in 2023/24. These factors should be taken into account when comparing trends over time.</ul>
+<p>Please refer to the Technical Report for further information on the strengths and limitations of the data.</p>
+<ul>
     <li>In 2022, the PSNI published its first <a href="https://www.psni.police.uk/safety-and-support/keeping-safe/tackling-violence-against-women-and-girls/violence-against-women#:~:text=As%20part%20of%20our%20commitment%20to%20tackling%20VAWG%2C%20we%20launched,from%20fear%2C%20intimidation%20and%20harassment." target=" blank">Tackling Violence against Women and Girls Action Plan</a>, setting out how the force planned to address this issue locally.</li>
     <li>For further detail on how police recorded crime statistics are collected and processed, please refer to the <a href="https://www.psni.police.uk/sites/default/files/2025-11/Police%20Recorded%20Crime%20User%20Guide.pdf" target=" blank">PSNI Recorded Crime User Guide</a>.</li>
 </ul>`

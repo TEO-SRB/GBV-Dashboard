@@ -135,8 +135,8 @@ window.addEventListener("DOMContentLoaded", async () => {
         populateInfoBoxes(
             ["Definitions", "Source", "What does the data mean?"],
             [
-                `<p>This tab presents data on the number of homicide victims in Northern Ireland, including their age and gender. Homicide recorded by the police includes murder, manslaughter, corporate manslaughter and infanticide.</p>
-                   <p> The year in which a homicide is recorded for crime recording purposes is based on the date it is established as homicide; the date of death may have occurred in a previous year.</p>
+                `<p>This tab presents data on the number of homicide victims in Northern Ireland, including their age and gender. While the data provides important evidence on the most serious outcomes of violence, they should not be interpreted as a measure of femicide, for which there is no agreed definition in Northern Ireland.</p>
+                <p>Homicides recorded by the police include murder, manslaughter, corporate manslaughter and infanticide. Deaths caused through unlawful driving are not homicide offences. They are presented in the dashboard in the violence with injury classification. The year in which a homicide is recorded for crime recording purposes is based on the date it is established as homicide; the date of death may have occurred in a previous year.</p>
                     <p> These figures are based on crimes reported to and recorded by the police, in line with the National Crime Recording Standard (NCRS) and Home Office Counting Rules (HOCR). Data are presented on a victim basis, with each victim counted once.</p>
                     <p> Homicide classifications may be revised as investigations progress or cases are concluded, and figures for recent years are therefore subject to revision. Revisions were made to the homicide time series for the period 2014/15 to 2023/24 following a review of this data in 2024/25.
                     <p>Changes in reporting behaviour, recording practices and data revisions should be considered when interpreting trends over time.
@@ -162,7 +162,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     <li><strong>What it tells us:</strong> Homicide is rare but represents the most severe outcome of gender-based violence.</li>
     <li><strong>Why it matters:</strong> These figures underline the importance of early intervention and risk assessment to prevent escalation.</li>
     <li><strong>How to use it:</strong> Incorporate insights into high-risk case management and multi-agency safeguarding approaches.</li>
-    <li><strong>Strengths/Limitations:</strong> Please refer to the technical report for further information on the strengths and limitations of the data.<br>
+    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report for further information on the strengths and limitations of the data.<br>
     </li>
 </ul>`
             

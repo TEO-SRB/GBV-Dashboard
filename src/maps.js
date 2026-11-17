@@ -100,16 +100,17 @@ window.addEventListener("DOMContentLoaded", async () => {
     populateInfoBoxes(
         ["Definitions", "Source", "What does the data mean?"],
         [
-            `<p>The tab presents data on offences as reported through the PSNI Recorded Crime System:</p>
+            `<p>The tab presents data on offences as reported through the PSNI Recorded Crime System by Local Government District:</p>
             <ul>
-                <li>Sexual offences;</li>
-                <li>Stalking and harassment;</li>
-                <li>Violence with injury;</li>
-                <li>Violence without injury; and</li>
+                <li>Sexual offences</li>
+                <li>Stalking and harassment</li>
+                <li>Violence with injury</li>
+                <li>Violence without injury</li>
             </ul>
-            <p>The location is based on where the offences take place.<br>
-            Crime population rates are calculated using the Northern Ireland mid-year population estimates published by NISRA.<br>
-            Violence with injury includes homicide and death/serious injury by unlawful driving.</p>`,
+            <p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
+            <p>The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). While this interim set has been developed to support this approach, it does not capture all forms of VAWG and may include offences that are not related to this issue. Further information on this approach can be found within the Technical Report.</p>
+            <p>The location is based on where the offences take place.</p>
+            <p>Crime population rates are calculated using the Northern Ireland mid-year population estimates published by NISRA.</p>`,
 
             `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
             <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>
@@ -120,18 +121,18 @@ window.addEventListener("DOMContentLoaded", async () => {
                 <li><a href="${config.portal_url}table/PRCPD" target="_blank">Police recorded crime and sanction outcomes</a> - by Local Government District and crime type</li>
             </ul>
             <p><strong>Data source</strong>: Data is sourced from the PSNI Police Recorded Crime Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>
-            <p>Please note, this page is not updated using the PSNI Homicide bulletin or quarterly releases. For the most up-to-date homicide data, please refer to the link below.</p>
+            <p>Please note, this page is not updated using the PSNI monthly releases. For the most up-to-date data, please refer to the link below.</p>
             <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
             <p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
-            `<p>This tab displays maps showing where offences occurred, based on police recorded crime data.</p>
+            `<p>This tab shows where offences occurred for police-recorded crime offence categories selected to provide an indication of violence against women and girls. The offence categories include sexual offences, stalking and harassment, and violence with or without injury.</p>
             <ul>
                 <li><strong>What it tells us:</strong> It highlights the geographic location of the offence itself, not where the victim lives. This distinction is important because offences can happen away from home—for example, in public spaces or workplaces.</li>
                 <li><strong>Why it matters:</strong> Understanding where offences occur helps identify hotspots and inform targeted prevention efforts, policing strategies, and community safety initiatives.</li>
                 <li><strong>How to use it:</strong> Use these maps to guide local interventions, resource deployment, and awareness campaigns in areas with higher recorded incidents.</li>
-                <li><strong>Strengths/Limitations:</strong> Location data reflects where the offence occurred, which may differ from where the victim resides. It can, but does not always, indicate risk for individuals living in that area.<br>
-                Please refer to the technical report for further information on the strengths and limitations of the data.</li>
-            </ul>`            
+                <li><strong>Strengths/Limitations:</strong> Location data reflects where the offence occurred, which may differ from where the victim resides. It can, but does not always, indicate risk for individuals living in that area.</li>
+                <li>Changes in legislation and crime recording practices should be considered when interpreting trends in stalking and harassment. The Protection from Stalking Act (NI) 2022 introduced a new specific stalking offence and an offence of threatening or abusive behaviour from April 2022, increasing identification and reporting. Between April 2018 – April 2023, Home Office rules required recording both a conduct offence and any additional offence in the same incident, leading to some double counting. From May 2023, this was reversed so that the conduct/behaviour offence is recorded only if it is the most serious offence, contributing to falls seen in 2023/24. These factors should be taken into account when comparing trends over time.</li></ul>
+                <p>Please refer to the Technical Report for further information on the strengths and limitations of the data.</p>`            
         ]
     );
 
