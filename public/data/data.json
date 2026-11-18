@@ -1,7 +1,7 @@
 {
   "CPTDAC": {
     "label": "Processing times for domestic abuse cases",
-    "updated": "2026-10-14",
+    "updated": "2026-11-18",
     "data": {
       "Median days taken to process": {
         "2022/23": {
@@ -25,7 +25,7 @@
   },
   "DAHVAG": {
     "label": "Police recorded domestic abuse homicides",
-    "updated": "2026-06-10",
+    "updated": "2026-11-18",
     "data": {
       "Domestic abuse homicides": {
         "2007/08": {
@@ -355,8 +355,8 @@
     }
   },
   "DAHVGR": {
-    "label": "Police recorded domestic abuse homicides",
-    "updated": "2026-06-24",
+    "label": "Police recorded domestic abuse homicides - relationship to victim",
+    "updated": "2026-11-18",
     "data": {
       "Domestic abuse homicides": {
         "2021/22": {
@@ -434,7 +434,7 @@
   },
   "DARPV": {
     "label": "Domestic abuse - relationship of perpetrator to victim",
-    "updated": "2026-05-18",
+    "updated": "2026-11-18",
     "data": {
       "Percentage of perpetrators": {
         "2018/19": {
@@ -488,8 +488,8 @@
     }
   },
   "DOMACVAC": {
-    "label": "Police recorded domestic abuse crimes",
-    "updated": "2026-06-11",
+    "label": "Police recorded domestic abuse crimes - offence type (aged 18+)",
+    "updated": "2026-11-18",
     "data": {
       "All domestic abuse crimes": {
         "2024/25": {
@@ -536,8 +536,8 @@
     }
   },
   "DOMACVG": {
-    "label": "Police recorded domestic abuse crimes",
-    "updated": "2026-06-11",
+    "label": "Police recorded domestic abuse crimes - victims of all ages",
+    "updated": "2026-11-18",
     "data": {
       "All domestic abuse crimes": {
         "2004/05": {
@@ -677,7 +677,7 @@
   },
   "EXPDA": {
     "label": "Experience of domestic abuse",
-    "updated": "2026-09-28",
+    "updated": "2026-11-18",
     "data": {
       "Victims of domestic abuse": {
         "2018/19": {
@@ -746,38 +746,10 @@
     }
   },
   "EXPGBVAG": {
-    "label": "Experience of gender-based violence - adults",
-    "updated": "2026-05-15",
+    "label": "Experience of gender-based violence - adults by age group",
+    "updated": "2026-11-18",
     "data": {
       "Adult victims of violence": {
-        "2022": {
-          "Age 18-29": {
-            "Female": "NA",
-            "Male": "NA"
-          },
-          "Age 30+": {
-            "Female": "NA",
-            "Male": "NA"
-          },
-          "All ages": {
-            "Female": 27,
-            "Male": 18
-          }
-        },
-        "2023": {
-          "Age 18-29": {
-            "Female": "NA",
-            "Male": "NA"
-          },
-          "Age 30+": {
-            "Female": "NA",
-            "Male": "NA"
-          },
-          "All ages": {
-            "Female": 23,
-            "Male": 16
-          }
-        },
         "2024": {
           "Age 18-29": {
             "Female": 42,
@@ -797,7 +769,7 @@
   },
   "EXPVLYTHEQ": {
     "label": "Experience of gender-based violence - 16 year olds",
-    "updated": "2026-03-27",
+    "updated": "2026-11-18",
     "data": {
       "Victims of gender-based violence": {
         "2023": {
@@ -929,7 +901,7 @@
   },
   "LDARPG": {
     "label": "Lifetime domestic abuse reported to the police",
-    "updated": "2026-05-18",
+    "updated": "2026-11-18",
     "data": {
       "Proportion of any lifetime domestic abuse reported to the police": {
         "2018/19": {
@@ -942,7 +914,7 @@
   },
   "PRCHOM": {
     "label": "Police recorded crime - victims of homicide",
-    "updated": "2026-09-28",
+    "updated": "2026-11-18",
     "data": {
       "All homicides": {
         "2007/08": {
@@ -1225,13 +1197,13 @@
           },
           "18+ years": {
             "Female": 1,
-            "Male": 11,
+            "Male": 10,
             "All persons": "NA"
           },
           "All ages": {
             "Female": 2,
-            "Male": 12,
-            "All persons": 14
+            "Male": 11,
+            "All persons": 13
           }
         },
         "2024/25": {
@@ -1346,8 +1318,8 @@
     }
   },
   "PRCPD": {
-    "label": "Police recorded crime and sanction outcomes",
-    "updated": "2026-06-10",
+    "label": "Police recorded crime and crime population rate",
+    "updated": "2026-11-18",
     "data": {
       "All crimes recorded by the police": {
         "2019/20": {
@@ -2561,7 +2533,7 @@
   },
   "PRCVCTM": {
     "label": "Police recorded crime - victims of crime",
-    "updated": "2026-06-15",
+    "updated": "2026-11-18",
     "data": {
       "All crimes recorded by the police": {
         "2007/08": {
@@ -3486,7 +3458,7 @@
   },
   "EXPVLADEQ": {
     "label": "Experience of gender-based violence - adults",
-    "updated": "2026-03-27",
+    "updated": "2026-11-18",
     "data": {
       "Adult victims of gender-based violence": {
         "2022": {
