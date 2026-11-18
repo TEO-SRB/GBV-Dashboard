@@ -246,7 +246,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <ul>
             <li><a href="${config.portal_url}table/EXPDA" target="_blank">Experience of domestic abuse</a> - by offence type, timeframe and victim gender</li>
             <li><a href="${config.portal_url}table/LDARPG" target="_blank">Lifetime domestic abuse reported to the police</a> - by victim gender</li>
-            <li><a href="${config.portal_url}table/DARPV" target="_blank">Domestic abuse - relationship of perpetrator to victim</a> - </li>        
+            <li><a href="${config.portal_url}table/DARPV" target="_blank">Domestic abuse - relationship of perpetrator to victim</a> </li>        
         </ul>
     <p>Statistical publications can be found on the <a href="https://www.justice-ni.gov.uk/publications/experience-domestic-abuse-findings-201819-northern-ireland-safe-community-survey" target="_blank">Department of Justice website</a>.</p>
     <p><strong>Updates:</strong> Next update due in 2027; data will be updated biennially thereafter.</p>`,
