@@ -114,7 +114,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <ul>
             <li><a href="${config.portal_url}table/EXPVLYTHEQ" target="_blank">Experience of gender-based violence - 16 year olds</a> - by violence type and equality group</li>
         </ul>
-<p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-evawg" target="_blank">The Executive Office website</a>.</p>
+<p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-16-year-olds-northern-ireland" target="_blank">The Executive Office website</a>.</p>
 <p><strong>Updates:</strong> Data updated annually.</p>`,
 
 `<p>This tab presents findings from the Young Life and Times survey, capturing the views and experiences of young people (aged 16) in Northern Ireland regarding violence and abuse.</p>

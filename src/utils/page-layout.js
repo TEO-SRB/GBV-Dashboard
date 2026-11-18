@@ -16,7 +16,7 @@ export function insertHeader () {
     <div aria-label="Feedback" class="w-100" style="background-color:#3878c5;">
         <div class="text-white text-center py-2 px-3">
            This is a prototype version provided for testing and feedback. Please share your views through our 
-                <a href="https://consultations.nidirect.gov.uk/teo/03d73c0b" target="_blank" rel="noopener noreferrer">user survey</a>
+                <a href="https://consultations.nidirect.gov.uk/teo/03d73c0b" target="_blank" rel="noopener noreferrer">online survey</a>
             
         </div>
     </div>

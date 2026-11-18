@@ -168,7 +168,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><a href="${config.portal_url}table/EXPVLADEQ" target="_blank">Experience of gender-based violence - adults</a> - by violence type and equality group</li>
             <li><a href="${config.portal_url}table/EXPGBVAG" target="_blank">Experience of gender-based violence - adults</a> - by victim age and victim gender</li>
         </ul>
-        <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-evawg" target="_blank">The Executive Office website</a>.</p>
+        <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-adults-northern-ireland" target="_blank">The Executive Office website</a>.</p>
         <p><strong>Updates:</strong> Data updated annually.</p>`,
 
         `<p>This tab presents findings from the Northern Ireland Life and Times survey, capturing self-reported experiences of violence and abuse among women and men aged 18 years or over.</p>
