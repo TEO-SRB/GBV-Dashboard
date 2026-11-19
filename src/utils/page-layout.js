@@ -38,7 +38,7 @@ export function insertHeader () {
 
     <!-- Right: TEO logo -->
     <div class="col-12 col-xl-4 d-flex justify-content-center justify-content-xl-end">
-      <a class="d-flex align-items-center" href="./">
+      <a class="d-flex align-items-center" href="https://www.executiveoffice-ni.gov.uk/">
         <img src="assets/img/logo/teo-logo.svg"
             alt="TEO logo" height="80" class="ms-3">
       </a>
