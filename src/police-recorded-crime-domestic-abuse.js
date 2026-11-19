@@ -135,7 +135,8 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>Violence with injury includes homicide and death/serious injury by unlawful driving.</p>
         <p>'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
         <p>There is overlap between the domestic abuse statistics presented here and the offences included on the interim VAWG offences tab. For example, some offences within the interim VAWG offence set will also be included in the domestic abuse statistics where they have been flagged as domestic abuse related. However, the domestic abuse statistics also include offences from other offence categories that are not currently part of the interim VAWG offence set.</p>
-        <p>While victim gender is available, police recorded domestic abuse crime does not identify gender-based violence.</p>`,
+        <p>While victim gender is available, police recorded domestic abuse crime does not identify gender-based violence.</p>
+        <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>`,
 
         
         `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>

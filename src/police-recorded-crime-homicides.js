@@ -140,7 +140,8 @@ window.addEventListener("DOMContentLoaded", async () => {
                     <p> These figures are based on crimes reported to and recorded by the police, in line with the National Crime Recording Standard (NCRS) and Home Office Counting Rules (HOCR). Data are presented on a victim basis, with each victim counted once.</p>
                     <p> Homicide classifications may be revised as investigations progress or cases are concluded, and figures for recent years are therefore subject to revision. Revisions were made to the homicide time series for the period 2014/15 to 2023/24 following a review of this data in 2024/25.
                     <p>Changes in reporting behaviour, recording practices and data revisions should be considered when interpreting trends over time.
-                </p>`,
+                </p>
+                <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>`,
 
                 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
                  <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>   

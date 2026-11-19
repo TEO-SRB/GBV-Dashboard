@@ -162,7 +162,8 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>A domestic abuse homicide is one which involves a domestic abuse motivation, meaning the victim and offender had an intimate (current or former) or familial relationship.</p>
         <p>The <b>Police Service of Northern Ireland (PSNI)</b> has adopted the definition of domestic violence and abuse as outlined in the 2016 Northern Ireland Government Strategy 'Stopping Domestic and Sexual Violence and Abuse in Northern Ireland' as:
 'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former partner or family member.'<br>
-Therefore, if a homicide arises within that relationship context (partner or family) and stems from behaviours aligned with domestic abuse, it is recorded as a domestic abuse motivated homicide.</p>`,
+Therefore, if a homicide arises within that relationship context (partner or family) and stems from behaviours aligned with domestic abuse, it is recorded as a domestic abuse motivated homicide.</p>
+<p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>`,
 
 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
 <p>The data presented on this page are <strong>Official Statistics</strong> derived from police recorded crime data.</p>

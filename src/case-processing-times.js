@@ -118,7 +118,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 <p>Figures presented on this page show the median time taken for criminal cases dealt with at the Crown Court and magistrates’ courts in Northern Ireland. Processing time is measured as the number of calendar days from the date an offence was reported to the date the case was completed at court, for cases dealt with in the year specified. The median is the number of days within which 50% of cases have been completed.</p>
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
     <ul>
-        <li><a href="https://data.nisra.gov.uk/table/INDPRCASEEQ" target="_blank">Processing times for criminal cases</a> - by equality group</li>
+        <li><a href="https://data.nisra.gov.uk/table/INDPRCASEEQ" target="_blank">Processing times for criminal cases</a> - by case type</li>
         <li><a href="${config.portal_url}table/CPTDAC" target="_blank">Processing times for domestic abuse cases</a> - by case type</li>      
     </ul>
 <p>Statistical publications can be found on the Department of Justice website:
@@ -126,7 +126,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <li><a href="https://www.justice-ni.gov.uk/articles/case-processing-times" target="_blank">Criminal cases</a></li>
         <li><a href="https://www.justice-ni.gov.uk/articles/domestic-abuse-prosecutions-convictions-and-case-processing-time-statistics" target="_blank">Domestic abuse cases</a></li>
     </ul>
-<p><strong>Updates:</strong> Data updated annually.</p>`,
+<p><strong>Updates:</strong> Data updated annually; updates include revisions to data reported in earlier financial years.</p>`,
 
 `<p>This tab shows how long it takes for cases related to violence and abuse to progress through the court system, from initial charge to final outcome.</p>
 <ul>
