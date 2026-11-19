@@ -747,9 +747,37 @@
   },
   "EXPGBVAG": {
     "label": "Experience of gender-based violence - adults by age group",
-    "updated": "2026-11-18",
+    "updated": "2026-11-19",
     "data": {
       "Adult victims of violence": {
+        "2022": {
+          "Age 18-29": {
+            "Female": "NA",
+            "Male": "NA"
+          },
+          "Age 30+": {
+            "Female": "NA",
+            "Male": "NA"
+          },
+          "All ages": {
+            "Female": 27,
+            "Male": 18
+          }
+        },
+        "2023": {
+          "Age 18-29": {
+            "Female": "NA",
+            "Male": "NA"
+          },
+          "Age 30+": {
+            "Female": "NA",
+            "Male": "NA"
+          },
+          "All ages": {
+            "Female": 23,
+            "Male": 16
+          }
+        },
         "2024": {
           "Age 18-29": {
             "Female": 42,
@@ -769,7 +797,7 @@
   },
   "EXPVLYTHEQ": {
     "label": "Experience of gender-based violence - 16 year olds",
-    "updated": "2026-11-18",
+    "updated": "2026-11-19",
     "data": {
       "Victims of gender-based violence": {
         "2023": {
@@ -3458,7 +3486,7 @@
   },
   "EXPVLADEQ": {
     "label": "Experience of gender-based violence - adults",
-    "updated": "2026-11-18",
+    "updated": "2026-11-19",
     "data": {
       "Adult victims of gender-based violence": {
         "2022": {
