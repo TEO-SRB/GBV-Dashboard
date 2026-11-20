@@ -15,7 +15,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertNavButtons();
     insertExpandButtons();
 
-    let data = await readData("INDPRCASEEQ");
+    let data = await readData("CPTALCRM");
     let dom_data = await readData("CPTDAC");
 
     const update_date = new Date(data.updated).toLocaleDateString("en-GB",
@@ -40,7 +40,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     updateYearSpans(data, stat);
 
     insertValue("sexual-case-processing", data.data[stat][latest_year]["Offence category - Sexual"]);
-    insertValue("all-case-processing", data.data[stat][latest_year]["Northern Ireland"]);
+    insertValue("all-case-processing", data.data[stat][latest_year]["All criminal cases"]);
 
     const dom_latest_year = dom_years[dom_years.length - 1];
     insertValue("domestic-days", dom_data.data[dom_stat][dom_latest_year]["All domestic abuse cases"]);
@@ -51,7 +51,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         data,
         stat,
         years,
-        line_1: ["Northern Ireland"],
+        line_1: ["All criminal cases"],
         line_2: ["Offence category - Sexual"],
         label_1: "All criminal cases",
         label_2: "Sexual offence cases",
@@ -63,7 +63,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         data,
         stat,
         years,
-        line_1: ["Northern Ireland"],
+        line_1: ["All criminal cases"],
         line_2: ["Offence category - Sexual"],
         label_1: "All criminal cases",
         label_2: "Sexual offence cases",
@@ -71,7 +71,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         canvas_id: "case-processing-sexual-line-expanded",
     });
 
-    downloadButton("case-processing-sexual-line-capture", "INDPRCASEEQ", update_date)
+    downloadButton("case-processing-sexual-line-capture", "CPTALCRM", update_date)
 
     
 
@@ -119,7 +119,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 <p>Figures presented on this page show the median time taken for criminal cases dealt with at the Crown Court and magistrates’ courts in Northern Ireland. Processing time is measured as the number of calendar days from the date an offence was reported to the date the case was completed at court, for cases dealt with in the year specified. The median is the number of days within which 50% of cases have been completed.</p>
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
     <ul>
-        <li><a href="https://data.nisra.gov.uk/table/INDPRCASEEQ" target="_blank">Processing times for criminal cases</a> - by case type</li>
+        <li><a href="${config.portal_url}table/CPTALCRM" target="_blank">Processing times for sexual offence cases</a> - by case type</li>
         <li><a href="${config.portal_url}table/CPTDAC" target="_blank">Processing times for domestic abuse cases</a> - by case type</li>      
     </ul>
 <p>Statistical publications can be found on the Department of Justice website:

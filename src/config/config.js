@@ -19,6 +19,6 @@ export const config = {
 
     // Data portal version in use
     // Remove "pp" from portal_url below after tables have been uploaded to public portal
-    "portal_url": "https://ppdata.nisra.gov.uk/"
+    "portal_url": "https://data.nisra.gov.uk/"
     
 }

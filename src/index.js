@@ -69,12 +69,12 @@ window.addEventListener("DOMContentLoaded", async () => {
 
 
     // Case processing times - average days to complete
-    const INDPRCASEEQ = await readData("INDPRCASEEQ");
-    const INDPRCASEEQ_stat = "Average time taken to complete criminal cases";
-    updateYearSpans(INDPRCASEEQ, INDPRCASEEQ_stat);
+    const CPTALCRM = await readData("CPTALCRM");
+    const CPTALCRM_stat = "Average time taken to complete criminal cases";
+    updateYearSpans(CPTALCRM, CPTALCRM_stat);
 
-    insertValue("sexual-days", INDPRCASEEQ.data[INDPRCASEEQ_stat][latest_year]["Offence category - Sexual"]);
-    insertValue("all-days", INDPRCASEEQ.data[INDPRCASEEQ_stat][latest_year]["Northern Ireland"]);
+    insertValue("sexual-days", CPTALCRM.data[CPTALCRM_stat][latest_year]["Offence category - Sexual"]);
+    insertValue("all-days", CPTALCRM.data[CPTALCRM_stat][latest_year]["All criminal cases"]);
 
     insertValue("sexual-days-year", latest_year)
 
