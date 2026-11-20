@@ -1,7 +1,7 @@
 {
   "CPTDAC": {
-    "label": "Processing times for domestic abuse cases",
-    "updated": "2026-11-18",
+    "label": "Processing times for domestic abuse related cases",
+    "updated": "2026-11-20",
     "data": {
       "Median days taken to process": {
         "2022/23": {
@@ -25,7 +25,7 @@
   },
   "DAHVAG": {
     "label": "Police recorded domestic abuse homicides",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "Domestic abuse homicides": {
         "2007/08": {
@@ -355,8 +355,8 @@
     }
   },
   "DAHVGR": {
-    "label": "Police recorded domestic abuse homicides - relationship to victim",
-    "updated": "2026-11-18",
+    "label": "Police recorded domestic abuse homicides - relationship of offender to victim",
+    "updated": "2026-11-20",
     "data": {
       "Domestic abuse homicides": {
         "2021/22": {
@@ -434,7 +434,7 @@
   },
   "DARPV": {
     "label": "Domestic abuse - relationship of perpetrator to victim",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "Percentage of perpetrators": {
         "2018/19": {
@@ -449,47 +449,9 @@
       }
     }
   },
-  "DOMACLGD": {
-    "label": "Police recorded domestic abuse crimes",
-    "updated": "2026-05-15",
-    "data": {
-      "All domestic abuse crimes": {
-        "2024/25": {
-          "Antrim and Newtownabbey": 1308,
-          "Armagh City, Banbridge and Craigavon": 1878,
-          "Belfast": 5148,
-          "Causeway Coast and Glens": 1139,
-          "Derry City and Strabane": 1888,
-          "Fermanagh and Omagh": 768,
-          "Lisburn and Castlereagh": 995,
-          "Mid and East Antrim": 1383,
-          "Mid Ulster": 1024,
-          "Newry, Mourne and Down": 1585,
-          "Ards and North Down": 1277,
-          "Northern Ireland": 18393
-        }
-      },
-      "Domestic abuse crime population rate (per 1000 population)": {
-        "2024/25": {
-          "Antrim and Newtownabbey": 9,
-          "Armagh City, Banbridge and Craigavon": 8,
-          "Belfast": 15,
-          "Causeway Coast and Glens": 8,
-          "Derry City and Strabane": 12,
-          "Fermanagh and Omagh": 7,
-          "Lisburn and Castlereagh": 7,
-          "Mid and East Antrim": 10,
-          "Mid Ulster": 7,
-          "Newry, Mourne and Down": 9,
-          "Ards and North Down": 8,
-          "Northern Ireland": 10
-        }
-      }
-    }
-  },
   "DOMACVAC": {
     "label": "Police recorded domestic abuse crimes - offence type (aged 18+)",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "All domestic abuse crimes": {
         "2024/25": {
@@ -537,7 +499,7 @@
   },
   "DOMACVG": {
     "label": "Police recorded domestic abuse crimes - victims of all ages",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "All domestic abuse crimes": {
         "2004/05": {
@@ -677,7 +639,7 @@
   },
   "EXPDA": {
     "label": "Experience of domestic abuse",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "Victims of domestic abuse": {
         "2018/19": {
@@ -747,7 +709,7 @@
   },
   "EXPGBVAG": {
     "label": "Experience of gender-based violence - adults by age group",
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "data": {
       "Adult victims of violence": {
         "2022": {
@@ -796,8 +758,8 @@
     }
   },
   "EXPVLYTHEQ": {
-    "label": "Experience of gender-based violence - 16 year olds",
-    "updated": "2026-11-19",
+    "label": "Experience of gender-based violence - 16-year-olds",
+    "updated": "2026-11-20",
     "data": {
       "Victims of gender-based violence": {
         "2023": {
@@ -928,8 +890,8 @@
     }
   },
   "LDARPG": {
-    "label": "Lifetime domestic abuse reported to the police",
-    "updated": "2026-11-18",
+    "label": "Reporting of lifetime domestic abuse to the police",
+    "updated": "2026-11-20",
     "data": {
       "Proportion of any lifetime domestic abuse reported to the police": {
         "2018/19": {
@@ -942,7 +904,7 @@
   },
   "PRCHOM": {
     "label": "Police recorded crime - victims of homicide",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "All homicides": {
         "2007/08": {
@@ -1271,83 +1233,9 @@
       }
     }
   },
-  "PRCONLCG": {
-    "label": "Police recorded crime - online crime",
-    "updated": "2026-03-27",
-    "data": {
-      "Total recorded online crime": {
-        "2014/15": {
-          "Female": 339,
-          "Male": 163,
-          "Unknown or N/A": 132,
-          "All persons": 634
-        },
-        "2015/16": {
-          "Female": 375,
-          "Male": 262,
-          "Unknown or N/A": 189,
-          "All persons": 826
-        },
-        "2016/17": {
-          "Female": 454,
-          "Male": 316,
-          "Unknown or N/A": 258,
-          "All persons": 1028
-        },
-        "2017/18": {
-          "Female": 611,
-          "Male": 374,
-          "Unknown or N/A": 326,
-          "All persons": 1311
-        },
-        "2018/19": {
-          "Female": 1069,
-          "Male": 595,
-          "Unknown or N/A": 303,
-          "All persons": 1967
-        },
-        "2019/20": {
-          "Female": 2160,
-          "Male": 1148,
-          "Unknown or N/A": 378,
-          "All persons": 3686
-        },
-        "2020/21": {
-          "Female": 2517,
-          "Male": 1527,
-          "Unknown or N/A": 390,
-          "All persons": 4434
-        },
-        "2021/22": {
-          "Female": 2963,
-          "Male": 1851,
-          "Unknown or N/A": 471,
-          "All persons": 5285
-        },
-        "2022/23": {
-          "Female": 2577,
-          "Male": 1993,
-          "Unknown or N/A": 555,
-          "All persons": 5125
-        },
-        "2023/24": {
-          "Female": 1839,
-          "Male": 1884,
-          "Unknown or N/A": 800,
-          "All persons": 4523
-        },
-        "2024/25": {
-          "Female": 1429,
-          "Male": 1335,
-          "Unknown or N/A": 665,
-          "All persons": 3429
-        }
-      }
-    }
-  },
   "PRCPD": {
     "label": "Police recorded crime and crime population rate",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "All crimes recorded by the police": {
         "2019/20": {
@@ -2561,7 +2449,7 @@
   },
   "PRCVCTM": {
     "label": "Police recorded crime - victims of crime",
-    "updated": "2026-11-18",
+    "updated": "2026-11-20",
     "data": {
       "All crimes recorded by the police": {
         "2007/08": {
@@ -3365,128 +3253,9 @@
       }
     }
   },
-  "DOMAC": {
-    "label": "Domestic abuse crimes and sanction outcomes",
-    "updated": "2026-03-27",
-    "data": {
-      "All domestic abuse crimes": {
-        "2023/24": {
-          "Violence against the person offences (Total)": 15610,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 4882,
-          "Violence without injury": 6925,
-          "Stalking and harassment": 3803,
-          "Sexual offences": 917,
-          "Theft (including burglary)": 1057,
-          "Criminal damage": 1400,
-          "Breach of non-molestation order": 612,
-          "All other offences": 344,
-          "Total crime (domestic abuse motivation)": 19940
-        },
-        "2024/25": {
-          "Violence against the person offences (Total)": 14447,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 4515,
-          "Violence without injury": 6408,
-          "Stalking and harassment": 3524,
-          "Sexual offences": 1028,
-          "Theft (including burglary)": 827,
-          "Criminal damage": 1290,
-          "Breach of non-molestation order": 508,
-          "All other offences": 293,
-          "Total crime (domestic abuse motivation)": 18393
-        }
-      },
-      "All sanction outcomes": {
-        "2023/24": {
-          "Violence against the person offences (Total)": 4434,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 1591,
-          "Violence without injury": 1579,
-          "Stalking and harassment": 1264,
-          "Sexual offences": 124,
-          "Theft (including burglary)": 391,
-          "Criminal damage": 495,
-          "Breach of non-molestation order": 395,
-          "All other offences": 102,
-          "Total crime (domestic abuse motivation)": 5941
-        },
-        "2024/25": {
-          "Violence against the person offences (Total)": 3890,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 1436,
-          "Violence without injury": 1313,
-          "Stalking and harassment": 1141,
-          "Sexual offences": 126,
-          "Theft (including burglary)": 311,
-          "Criminal damage": 437,
-          "Breach of non-molestation order": 303,
-          "All other offences": 101,
-          "Total crime (domestic abuse motivation)": 5168
-        }
-      },
-      "All sanction outcomes rate": {
-        "2023/24": {
-          "Violence against the person offences (Total)": 28.4,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 32.6,
-          "Violence without injury": 22.8,
-          "Stalking and harassment": 33.2,
-          "Sexual offences": 13.5,
-          "Theft (including burglary)": 37,
-          "Criminal damage": 35.4,
-          "Breach of non-molestation order": 64.5,
-          "All other offences": 29.7,
-          "Total crime (domestic abuse motivation)": 29.8
-        },
-        "2024/25": {
-          "Violence against the person offences (Total)": 26.9,
-          "Violence with injury (including homicide and death or serious injury-unlawful driving)": 31.8,
-          "Violence without injury": 20.5,
-          "Stalking and harassment": 32.4,
-          "Sexual offences": 12.3,
-          "Theft (including burglary)": 37.6,
-          "Criminal damage": 33.9,
-          "Breach of non-molestation order": 59.6,
-          "All other offences": 34.5,
-          "Total crime (domestic abuse motivation)": 28.1
-        }
-      }
-    }
-  },
-  "EXPVAS": {
-    "label": "Experience of gender based violence - adults",
-    "updated": "2026-03-27",
-    "data": {
-      "Adult victims of violence": {
-        "2024": {
-          "No forms of violence": {
-            "Female": 76,
-            "Male": 82,
-            "All": 79
-          },
-          "One form of violence": {
-            "Female": 12,
-            "Male": 11,
-            "All": 12
-          },
-          "Two forms of violence": {
-            "Female": 6,
-            "Male": 4,
-            "All": 5
-          },
-          "Three forms of violence": {
-            "Female": 3,
-            "Male": 2,
-            "All": 3
-          },
-          "Four or five forms of violence": {
-            "Female": 3,
-            "Male": 1,
-            "All": 2
-          }
-        }
-      }
-    }
-  },
   "EXPVLADEQ": {
     "label": "Experience of gender-based violence - adults",
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "data": {
       "Adult victims of gender-based violence": {
         "2022": {
@@ -3750,525 +3519,62 @@
       }
     }
   },
-  "PRCONL": {
-    "label": "Police recorded crime - online crime",
-    "updated": "2026-03-27",
+  "CPTALCRM": {
+    "label": "Processing times for sexual offence cases",
+    "updated": "2026-11-20",
     "data": {
-      "All online crimes": {
-        "2014/15": {
-          "Violence against the person (Total)": 396,
-          "Threats to kill": 47,
-          "Harassment": 332,
-          "Malicious communications": "NA",
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 17,
-          "Sexual offences (Total)": 70,
-          "Sexual activity": 62,
-          "Sexual grooming (offence applies where age under 16)": 2,
-          "Sexual communication with a child (offence applies where age under 16)": "NA",
-          "Sharing an intimate image": "NA",
-          "Exposure and voyeurism": 2,
-          "All other sexual offences": 4,
-          "Burglary, robbery, theft and criminal damage (Total)": 30,
-          "Blackmail (theft offences)": 19,
-          "All other offences of burglary, robbery, theft and criminal damage": 11,
-          "Other offences against the State and public order": 36,
-          "Threat or possession with intent to commit criminal damage": 9,
-          "Obscene publications, etc. and protected sexual material (Total)": 84,
-          "Indecent images relating to children (offence applies where age under 18)": 83,
-          "Non-child related indecent images": 1,
-          "All other crimes against society": 9,
-          "Total recorded crime - all offences": 634
-        },
-        "2015/16": {
-          "Violence against the person (Total)": 378,
-          "Threats to kill": 47,
-          "Harassment": 316,
-          "Malicious communications": "NA",
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 15,
-          "Sexual offences (Total)": 142,
-          "Sexual activity": 118,
-          "Sexual grooming (offence applies where age under 16)": 2,
-          "Sexual communication with a child (offence applies where age under 16)": 18,
-          "Sharing an intimate image": "NA",
-          "Exposure and voyeurism": 4,
-          "All other sexual offences": 0,
-          "Burglary, robbery, theft and criminal damage (Total)": 114,
-          "Blackmail (theft offences)": 105,
-          "All other offences of burglary, robbery, theft and criminal damage": 9,
-          "Other offences against the State and public order": 39,
-          "Threat or possession with intent to commit criminal damage": 14,
-          "Obscene publications, etc. and protected sexual material (Total)": 125,
-          "Indecent images relating to children (offence applies where age under 18)": 124,
-          "Non-child related indecent images": 1,
-          "All other crimes against society": 14,
-          "Total recorded crime - all offences": 826
-        },
-        "2016/17": {
-          "Violence against the person (Total)": 399,
-          "Threats to kill": 42,
-          "Harassment": 339,
-          "Malicious communications": 1,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 17,
-          "Sexual offences (Total)": 193,
-          "Sexual activity": 159,
-          "Sexual grooming (offence applies where age under 16)": 9,
-          "Sexual communication with a child (offence applies where age under 16)": 9,
-          "Sharing an intimate image": 9,
-          "Exposure and voyeurism": 4,
-          "All other sexual offences": 3,
-          "Burglary, robbery, theft and criminal damage (Total)": 180,
-          "Blackmail (theft offences)": 164,
-          "All other offences of burglary, robbery, theft and criminal damage": 16,
-          "Other offences against the State and public order": 42,
-          "Threat or possession with intent to commit criminal damage": 17,
-          "Obscene publications, etc. and protected sexual material (Total)": 181,
-          "Indecent images relating to children (offence applies where age under 18)": 177,
-          "Non-child related indecent images": 4,
-          "All other crimes against society": 16,
-          "Total recorded crime - all offences": 1028
-        },
-        "2017/18": {
-          "Violence against the person (Total)": 690,
-          "Threats to kill": 54,
-          "Harassment": 281,
-          "Malicious communications": 337,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 18,
-          "Sexual offences (Total)": 231,
-          "Sexual activity": 122,
-          "Sexual grooming (offence applies where age under 16)": 30,
-          "Sexual communication with a child (offence applies where age under 16)": 54,
-          "Sharing an intimate image": 21,
-          "Exposure and voyeurism": 3,
-          "All other sexual offences": 1,
-          "Burglary, robbery, theft and criminal damage (Total)": 104,
-          "Blackmail (theft offences)": 99,
-          "All other offences of burglary, robbery, theft and criminal damage": 5,
-          "Other offences against the State and public order": 50,
-          "Threat or possession with intent to commit criminal damage": 25,
-          "Obscene publications, etc. and protected sexual material (Total)": 202,
-          "Indecent images relating to children (offence applies where age under 18)": 197,
-          "Non-child related indecent images": 5,
-          "All other crimes against society": 9,
-          "Total recorded crime - all offences": 1311
-        },
-        "2018/19": {
-          "Violence against the person (Total)": 1198,
-          "Threats to kill": 44,
-          "Harassment": 417,
-          "Malicious communications": 729,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 8,
-          "Sexual offences (Total)": 280,
-          "Sexual activity": 161,
-          "Sexual grooming (offence applies where age under 16)": 9,
-          "Sexual communication with a child (offence applies where age under 16)": 79,
-          "Sharing an intimate image": 20,
-          "Exposure and voyeurism": 6,
-          "All other sexual offences": 5,
-          "Burglary, robbery, theft and criminal damage (Total)": 208,
-          "Blackmail (theft offences)": 191,
-          "All other offences of burglary, robbery, theft and criminal damage": 17,
-          "Other offences against the State and public order": 43,
-          "Threat or possession with intent to commit criminal damage": 17,
-          "Obscene publications, etc. and protected sexual material (Total)": 206,
-          "Indecent images relating to children (offence applies where age under 18)": 199,
-          "Non-child related indecent images": 7,
-          "All other crimes against society": 15,
-          "Total recorded crime - all offences": 1967
-        },
-        "2019/20": {
-          "Violence against the person (Total)": 2820,
-          "Threats to kill": 42,
-          "Harassment": 934,
-          "Malicious communications": 1831,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 13,
-          "Sexual offences (Total)": 341,
-          "Sexual activity": 156,
-          "Sexual grooming (offence applies where age under 16)": 13,
-          "Sexual communication with a child (offence applies where age under 16)": 123,
-          "Sharing an intimate image": 45,
-          "Exposure and voyeurism": 1,
-          "All other sexual offences": 3,
-          "Burglary, robbery, theft and criminal damage (Total)": 181,
-          "Blackmail (theft offences)": 173,
-          "All other offences of burglary, robbery, theft and criminal damage": 8,
-          "Other offences against the State and public order": 77,
-          "Threat or possession with intent to commit criminal damage": 33,
-          "Obscene publications, etc. and protected sexual material (Total)": 211,
-          "Indecent images relating to children (offence applies where age under 18)": 204,
-          "Non-child related indecent images": 7,
-          "All other crimes against society": 23,
-          "Total recorded crime - all offences": 3686
-        },
-        "2020/21": {
-          "Violence against the person (Total)": 3342,
-          "Threats to kill": 51,
-          "Harassment": 1015,
-          "Malicious communications": 2268,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": "NA",
-          "All other violence against the person": 8,
-          "Sexual offences (Total)": 368,
-          "Sexual activity": 182,
-          "Sexual grooming (offence applies where age under 16)": 8,
-          "Sexual communication with a child (offence applies where age under 16)": 126,
-          "Sharing an intimate image": 45,
-          "Exposure and voyeurism": 3,
-          "All other sexual offences": 4,
-          "Burglary, robbery, theft and criminal damage (Total)": 326,
-          "Blackmail (theft offences)": 311,
-          "All other offences of burglary, robbery, theft and criminal damage": 15,
-          "Other offences against the State and public order": 100,
-          "Threat or possession with intent to commit criminal damage": 57,
-          "Obscene publications, etc. and protected sexual material (Total)": 229,
-          "Indecent images relating to children (offence applies where age under 18)": 226,
-          "Non-child related indecent images": 3,
-          "All other crimes against society": 12,
-          "Total recorded crime - all offences": 4434
-        },
-        "2021/22": {
-          "Violence against the person (Total)": 3971,
-          "Threats to kill": 52,
-          "Harassment": 1468,
-          "Malicious communications": 2424,
-          "Stalking": "NA",
-          "Controlling or coercive behaviour": 5,
-          "All other violence against the person": 22,
-          "Sexual offences (Total)": 344,
-          "Sexual activity": 141,
-          "Sexual grooming (offence applies where age under 16)": 4,
-          "Sexual communication with a child (offence applies where age under 16)": 125,
-          "Sharing an intimate image": 60,
-          "Exposure and voyeurism": 10,
-          "All other sexual offences": 4,
-          "Burglary, robbery, theft and criminal damage (Total)": 526,
-          "Blackmail (theft offences)": 505,
-          "All other offences of burglary, robbery, theft and criminal damage": 21,
-          "Other offences against the State and public order": 105,
-          "Threat or possession with intent to commit criminal damage": 44,
-          "Obscene publications, etc. and protected sexual material (Total)": 272,
-          "Indecent images relating to children (offence applies where age under 18)": 266,
-          "Non-child related indecent images": 6,
-          "All other crimes against society": 23,
-          "Total recorded crime - all offences": 5285
-        },
-        "2022/23": {
-          "Violence against the person (Total)": 3374,
-          "Threats to kill": 43,
-          "Harassment": 1487,
-          "Malicious communications": 1775,
-          "Stalking": 23,
-          "Controlling or coercive behaviour": 32,
-          "All other violence against the person": 14,
-          "Sexual offences (Total)": 386,
-          "Sexual activity": 150,
-          "Sexual grooming (offence applies where age under 16)": 17,
-          "Sexual communication with a child (offence applies where age under 16)": 149,
-          "Sharing an intimate image": 59,
-          "Exposure and voyeurism": 7,
-          "All other sexual offences": 4,
-          "Burglary, robbery, theft and criminal damage (Total)": 824,
-          "Blackmail (theft offences)": 805,
-          "All other offences of burglary, robbery, theft and criminal damage": 19,
-          "Other offences against the State and public order": 79,
-          "Threat or possession with intent to commit criminal damage": 65,
-          "Obscene publications, etc. and protected sexual material (Total)": 378,
-          "Indecent images relating to children (offence applies where age under 18)": 370,
-          "Non-child related indecent images": 8,
-          "All other crimes against society": 19,
-          "Total recorded crime - all offences": 5125
-        },
-        "2023/24": {
-          "Violence against the person (Total)": 2363,
-          "Threats to kill": 18,
-          "Harassment": 1419,
-          "Malicious communications": 874,
-          "Stalking": 23,
-          "Controlling or coercive behaviour": 19,
-          "All other violence against the person": 10,
-          "Sexual offences (Total)": 479,
-          "Sexual activity": 250,
-          "Sexual grooming (offence applies where age under 16)": 7,
-          "Sexual communication with a child (offence applies where age under 16)": 132,
-          "Sharing an intimate image": 52,
-          "Exposure and voyeurism": 33,
-          "All other sexual offences": 5,
-          "Burglary, robbery, theft and criminal damage (Total)": 942,
-          "Blackmail (theft offences)": 921,
-          "All other offences of burglary, robbery, theft and criminal damage": 21,
-          "Other offences against the State and public order": 115,
-          "Threat or possession with intent to commit criminal damage": 66,
-          "Obscene publications, etc. and protected sexual material (Total)": 533,
-          "Indecent images relating to children (offence applies where age under 18)": 526,
-          "Non-child related indecent images": 7,
-          "All other crimes against society": 25,
-          "Total recorded crime - all offences": 4523
-        },
-        "2024/25": {
-          "Violence against the person (Total)": 1777,
-          "Threats to kill": 17,
-          "Harassment": 1088,
-          "Malicious communications": 632,
-          "Stalking": 13,
-          "Controlling or coercive behaviour": 11,
-          "All other violence against the person": 16,
-          "Sexual offences (Total)": 465,
-          "Sexual activity": 191,
-          "Sexual grooming (offence applies where age under 16)": 6,
-          "Sexual communication with a child (offence applies where age under 16)": 143,
-          "Sharing an intimate image": 51,
-          "Exposure and voyeurism": 61,
-          "All other sexual offences": 13,
-          "Burglary, robbery, theft and criminal damage (Total)": 596,
-          "Blackmail (theft offences)": 581,
-          "All other offences of burglary, robbery, theft and criminal damage": 15,
-          "Other offences against the State and public order": 71,
-          "Threat or possession with intent to commit criminal damage": 30,
-          "Obscene publications, etc. and protected sexual material (Total)": 474,
-          "Indecent images relating to children (offence applies where age under 18)": 466,
-          "Non-child related indecent images": 8,
-          "All other crimes against society": 16,
-          "Total recorded crime - all offences": 3429
-        }
-      }
-    }
-  },
-  "INDPRCASEEQ": {
-    "label": "Indicator - Processing times for criminal cases",
-    "updated": "2026-09-25",
-    "data": {
-      "Average time taken to complete criminal cases": {
+      "Median days taken to process": {
         "2013/14": {
-          "Northern Ireland": 143,
-          "Sex - Male": 145,
-          "Sex - Female": 137,
-          "Age - Youth": 192,
-          "Age - Adult": 141,
-          "Offence category - Violence Against the Person": 217,
-          "Offence category - Sexual": 558,
-          "Offence category - Robbery/ Theft/ Burglary": 191,
-          "Offence category - Criminal Damage/ Public Order": 141,
-          "Offence category - Drugs": 177,
-          "Offence category - Motoring": 113,
-          "Offence category - Other": 203,
-          "Court type - Crown Court": 492,
-          "Court type - Adult magistrates' courts": 129,
-          "Court type - Youth magistrates' courts": 177
+          "All criminal cases": 143,
+          "Offence category - Sexual": 558
         },
         "2014/15": {
-          "Northern Ireland": 143,
-          "Sex - Male": 143,
-          "Sex - Female": 142,
-          "Age - Youth": 168,
-          "Age - Adult": 141,
-          "Offence category - Violence Against the Person": 207,
-          "Offence category - Sexual": 528,
-          "Offence category - Robbery/ Theft/ Burglary": 175,
-          "Offence category - Criminal Damage/ Public Order": 135,
-          "Offence category - Drugs": 178,
-          "Offence category - Motoring": 118,
-          "Offence category - Other": 205,
-          "Court type - Crown Court": 476,
-          "Court type - Adult magistrates' courts": 132,
-          "Court type - Youth magistrates' courts": 161
+          "All criminal cases": 143,
+          "Offence category - Sexual": 528
         },
         "2015/16": {
-          "Northern Ireland": 146,
-          "Sex - Male": 146,
-          "Sex - Female": 146,
-          "Age - Youth": 186,
-          "Age - Adult": 144,
-          "Offence category - Violence Against the Person": 210,
-          "Offence category - Sexual": 470,
-          "Offence category - Robbery/ Theft/ Burglary": 183,
-          "Offence category - Criminal Damage/ Public Order": 143,
-          "Offence category - Drugs": 168,
-          "Offence category - Motoring": 119,
-          "Offence category - Other": 192,
-          "Court type - Crown Court": 515,
-          "Court type - Adult magistrates' courts": 138,
-          "Court type - Youth magistrates' courts": 183
+          "All criminal cases": 146,
+          "Offence category - Sexual": 470
         },
         "2016/17": {
-          "Northern Ireland": 165,
-          "Sex - Male": 163,
-          "Sex - Female": 170,
-          "Age - Youth": 206,
-          "Age - Adult": 162,
-          "Offence category - Violence Against the Person": 240,
-          "Offence category - Sexual": 623,
-          "Offence category - Robbery/ Theft/ Burglary": 220,
-          "Offence category - Criminal Damage/ Public Order": 153,
-          "Offence category - Drugs": 202,
-          "Offence category - Motoring": 130,
-          "Offence category - Other": 225,
-          "Court type - Crown Court": 584,
-          "Court type - Adult magistrates' courts": 147,
-          "Court type - Youth magistrates' courts": 196
+          "All criminal cases": 165,
+          "Offence category - Sexual": 623
         },
         "2017/18": {
-          "Northern Ireland": 162,
-          "Sex - Male": 161,
-          "Sex - Female": 164,
-          "Age - Youth": 211,
-          "Age - Adult": 159,
-          "Offence category - Violence Against the Person": 229,
-          "Offence category - Sexual": 622,
-          "Offence category - Robbery/ Theft/ Burglary": 216,
-          "Offence category - Criminal Damage/ Public Order": 157,
-          "Offence category - Drugs": 183,
-          "Offence category - Motoring": 139,
-          "Offence category - Other": 232,
-          "Court type - Crown Court": 558,
-          "Court type - Adult magistrates' courts": 150,
-          "Court type - Youth magistrates' courts": 200
+          "All criminal cases": 162,
+          "Offence category - Sexual": 622
         },
         "2018/19": {
-          "Northern Ireland": 167,
-          "Sex - Male": 167,
-          "Sex - Female": 167,
-          "Age - Youth": 215,
-          "Age - Adult": 164,
-          "Offence category - Violence Against the Person": 244,
-          "Offence category - Sexual": 667,
-          "Offence category - Robbery/ Theft/ Burglary": 229,
-          "Offence category - Criminal Damage/ Public Order": 152,
-          "Offence category - Drugs": 181,
-          "Offence category - Motoring": 141,
-          "Offence category - Other": 240,
-          "Court type - Crown Court": 551,
-          "Court type - Adult magistrates' courts": 154,
-          "Court type - Youth magistrates' courts": 204
+          "All criminal cases": 167,
+          "Offence category - Sexual": 667
         },
         "2019/20": {
-          "Northern Ireland": 149,
-          "Sex - Male": 150,
-          "Sex - Female": 143,
-          "Age - Youth": 214,
-          "Age - Adult": 146,
-          "Offence category - Violence Against the Person": 219,
-          "Offence category - Sexual": 698,
-          "Offence category - Robbery/ Theft/ Burglary": 212,
-          "Offence category - Criminal Damage/ Public Order": 146,
-          "Offence category - Drugs": 166,
-          "Offence category - Motoring": 119,
-          "Offence category - Other": 241,
-          "Court type - Crown Court": 565,
-          "Court type - Adult magistrates' courts": 136,
-          "Court type - Youth magistrates' courts": 203
+          "All criminal cases": 149,
+          "Offence category - Sexual": 698
         },
         "2020/21": {
-          "Northern Ireland": 193,
-          "Sex - Male": 193,
-          "Sex - Female": 192,
-          "Age - Youth": 280,
-          "Age - Adult": 189,
-          "Offence category - Violence Against the Person": 267,
-          "Offence category - Sexual": 582,
-          "Offence category - Robbery/ Theft/ Burglary": 259,
-          "Offence category - Criminal Damage/ Public Order": 195,
-          "Offence category - Drugs": 229,
-          "Offence category - Motoring": 153,
-          "Offence category - Other": 315,
-          "Court type - Crown Court": 582,
-          "Court type - Adult magistrates' courts": 179,
-          "Court type - Youth magistrates' courts": 272
+          "All criminal cases": 193,
+          "Offence category - Sexual": 582
         },
         "2021/22": {
-          "Northern Ireland": 226,
-          "Sex - Male": 224,
-          "Sex - Female": 238,
-          "Age - Youth": 332,
-          "Age - Adult": 223,
-          "Offence category - Violence Against the Person": 244,
-          "Offence category - Sexual": 742,
-          "Offence category - Robbery/ Theft/ Burglary": 305,
-          "Offence category - Criminal Damage/ Public Order": 209,
-          "Offence category - Drugs": 263,
-          "Offence category - Motoring": 192,
-          "Offence category - Other": 306,
-          "Court type - Crown Court": 727,
-          "Court type - Adult magistrates' courts": 207,
-          "Court type - Youth magistrates' courts": 308
+          "All criminal cases": 226,
+          "Offence category - Sexual": 742
         },
         "2022/23": {
-          "Northern Ireland": 206,
-          "Sex - Male": 207,
-          "Sex - Female": 202,
-          "Age - Youth": 258,
-          "Age - Adult": 204,
-          "Offence category - Violence Against the Person": 234,
-          "Offence category - Sexual": 757,
-          "Offence category - Robbery/ Theft/ Burglary": 253,
-          "Offence category - Criminal Damage/ Public Order": 198,
-          "Offence category - Drugs": 272,
-          "Offence category - Motoring": 164,
-          "Offence category - Other": 378,
-          "Court type - Crown Court": 756,
-          "Court type - Adult magistrates' courts": 189,
-          "Court type - Youth magistrates' courts": 233
+          "All criminal cases": 206,
+          "Offence category - Sexual": 757
         },
         "2023/24": {
-          "Northern Ireland": 190,
-          "Sex - Male": 190,
-          "Sex - Female": 192,
-          "Age - Youth": 270,
-          "Age - Adult": 188,
-          "Offence category - Violence Against the Person": 223,
-          "Offence category - Sexual": 675,
-          "Offence category - Robbery/ Theft/ Burglary": 224,
-          "Offence category - Criminal Damage/ Public Order": 168,
-          "Offence category - Drugs": 238,
-          "Offence category - Motoring": 162,
-          "Offence category - Other": 313,
-          "Court type - Crown Court": 702,
-          "Court type - Adult magistrates' courts": 176,
-          "Court type - Youth magistrates' courts": 256
+          "All criminal cases": 190,
+          "Offence category - Sexual": 675
         },
         "2024/25": {
-          "Northern Ireland": 189,
-          "Sex - Male": 190,
-          "Sex - Female": 189,
-          "Age - Youth": 263,
-          "Age - Adult": 187,
-          "Offence category - Violence Against the Person": 223,
-          "Offence category - Sexual": 630,
-          "Offence category - Robbery/ Theft/ Burglary": 242,
-          "Offence category - Criminal Damage/ Public Order": 167,
-          "Offence category - Drugs": 249,
-          "Offence category - Motoring": 152,
-          "Offence category - Other": 359,
-          "Court type - Crown Court": 752,
-          "Court type - Adult magistrates' courts": 174,
-          "Court type - Youth magistrates' courts": 244
+          "All criminal cases": 189,
+          "Offence category - Sexual": 630
         },
         "2025/26": {
-          "Northern Ireland": 209,
-          "Sex - Male": 205,
-          "Sex - Female": 218,
-          "Age - Youth": 231,
-          "Age - Adult": 208,
-          "Offence category - Violence Against the Person": 205,
-          "Offence category - Sexual": 547,
-          "Offence category - Robbery/ Theft/ Burglary": 223,
-          "Offence category - Criminal Damage/ Public Order": 165,
-          "Offence category - Drugs": 250,
-          "Offence category - Motoring": 204,
-          "Offence category - Other": 333,
-          "Court type - Crown Court": 690,
-          "Court type - Adult magistrates' courts": 201,
-          "Court type - Youth magistrates' courts": 220
+          "All criminal cases": 209,
+          "Offence category - Sexual": 547
         }
       }
     }
