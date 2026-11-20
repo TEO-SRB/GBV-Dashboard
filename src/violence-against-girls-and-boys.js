@@ -104,7 +104,8 @@ window.addEventListener("DOMContentLoaded", async () => {
     <li><strong>Online Violence:</strong> Receiving threats online or via social media, online trolling, or being sent or asked for intimate images against your will.</li>
 </ul>
 
-<p>While this definition of gender-based violence is provided, respondents must make their own assessment as to whether an experience occurred because of their gender. As a result, some respondents may not identify themselves as victims due to differences in awareness, understanding and perceptions of gender-based violence. Alternatively, some respondents may misunderstand and report as gender-based violence when the violence is not related to their gender.</p>`,
+<p>While this definition of gender-based violence is provided, respondents must make their own assessment as to whether an experience occurred because of their gender. As a result, some respondents may not identify themselves as victims due to differences in awareness, understanding and perceptions of gender-based violence. Alternatively, some respondents may misunderstand and report as gender-based violence when the violence is not related to their gender.</p>
+<p>Further information is available in the Technical Report. (link to be added)<p>`,
 
 `<p>The <strong>Young Life and Times (YLT) Survey</strong> is an annual survey that captures the attitudes and opinions of <b>16-year-olds</b> in Northern Ireland. It is designed to give young people a voice on social and policy issues that affect them. It has been running since 2003 and provides a time series on key social and policy issues. </p>
 <p>Fieldwork for the YLT Survey is carried out annually between April and May. Due to demand for questions, the survey is split into two versions. In 2024, 1,156 respondents <b>aged 16</b> completed the version containing the Gender-Based Violence module. The module is sponsored by The Executive Office.</p>
@@ -114,15 +115,17 @@ window.addEventListener("DOMContentLoaded", async () => {
         <ul>
             <li><a href="${config.portal_url}table/EXPVLYTHEQ" target="_blank">Experience of gender-based violence - 16 year olds</a> - by violence type and equality group</li>
         </ul>
+        <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
 <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-16-year-olds-northern-ireland" target="_blank">The Executive Office website</a>.</p>
+<p>Further information is available in the Technical Report. (link to be added)<p>
 <p><strong>Updates:</strong> Data updated annually.</p>`,
 
 `<p>This tab presents findings from the Young Life and Times survey, capturing the views and experiences of young people (aged 16) in Northern Ireland regarding violence and abuse.</p>
 <ul>
-    <li><strong>What it tells us:</strong> It highlights how young people perceive issues such as domestic abuse, coercive control, and gender-based violence, and whether they have experienced these behaviours themselves. These insights reveal emerging patterns and attitudes among younger age groups.</li>
+    <li><strong>What it tells us:</strong> It highlights how young people perceive issues on gender-based violence, and whether they have experienced these behaviours themselves. These insights reveal emerging patterns and attitudes among younger age groups.</li>
     <li><strong>Why it matters:</strong> Early attitudes can shape future behaviours. Understanding young people's experiences and beliefs helps identify risks and opportunities for prevention before harmful norms become entrenched.</li>
     <li><strong>How to use it:</strong> Use this data to inform education programmes, awareness campaigns, and safeguarding policies in schools and youth settings. It can guide interventions that promote healthy relationships and challenge harmful behaviours.</li>
-    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report for further information on the strengths and limitations of the data.</li>
+    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report (link to be added) for further information on the strengths and limitations of the data.</li>
 </ul>`
             
             ]

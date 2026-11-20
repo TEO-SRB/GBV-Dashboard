@@ -235,7 +235,8 @@ window.addEventListener("DOMContentLoaded", async () => {
     <p><strong>Force:</strong> Bullied or intimidated you for example by punching walls or destroying property, pressurised or tried to pressurise you to have sex or take part in another sexual activity when you didn't want to, pressurised you to view material which you considered to be pornography, threatened to kill or attempted to kill themselves as a way of making you do something, threatened to, attempted to, or actually hurt themselves as a way of making you do something, used some kind of force against you (choking, kicking, biting, pushing, slapping), used a weapon against you.</p>
     <p><strong>Relationship of perpetrator:</strong>  The relationship of the perpetrator to the victim is based on the single worst incident, as determined by the respondent. <br>
     For ease of presentation in the chart above the following relationship types have been shortened:</p>
-    <ul>${relationship_definitions}</ul>`,
+    <ul>${relationship_definitions}</ul>
+    <p>Further information is available in the Technical Report. (link to be added)<p>`,
 
     `<p>This section presents findings from the 2018/19 <strong>Northern Ireland Safe Community Survey (NISCS)</strong>. The NISCS (previously known as the Northern Ireland Crime Survey) is a representative, continuous, personal interview survey of the experiences and perceptions of crime, of adults living in private households throughout Northern Ireland.</p>
     <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from the Northern Ireland Safe Community Survey (NISCS) published by the <b>Department of Justice (DoJ)</b>.</p>
@@ -248,7 +249,9 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><a href="${config.portal_url}table/LDARPG" target="_blank">Lifetime domestic abuse reported to the police</a> - by victim gender</li>
             <li><a href="${config.portal_url}table/DARPV" target="_blank">Domestic abuse - relationship of perpetrator to victim</a> </li>        
         </ul>
+        <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
     <p>Statistical publications can be found on the <a href="https://www.justice-ni.gov.uk/publications/experience-domestic-abuse-findings-201819-northern-ireland-safe-community-survey" target="_blank">Department of Justice website</a>.</p>
+    <p>Further information is available in the Technical Report. (link to be added)<p>
     <p><strong>Updates:</strong> Next update due in 2027; data will be updated biennially thereafter.</p>`,
 
     `<p>This tab provides an overview of how common domestic abuse is, based on self-reported experiences from survey respondents.</p>
@@ -257,7 +260,8 @@ window.addEventListener("DOMContentLoaded", async () => {
         <li><strong>Why it matters:</strong> Understanding prevalence helps practitioners gauge the hidden burden of domestic abuse and plan services accordingly. It highlights that many cases remain unreported, reinforcing the need for proactive outreach and support.</li>
         <li><strong>How to use it:</strong> Use these figures to inform policy development, prevention strategies, and resource allocation for victim support. They can also guide awareness campaigns aimed at encouraging reporting and help-seeking.</li>
         <li><strong>Strengths/Limitations:</strong> Self-reported data can be affected by stigma or reluctance to disclose, so actual prevalence may be higher. Interpret these figures alongside criminal case data for a complete picture.</li>
-    </ul>`          
+    </ul>
+    <p>The Technical Report (link to be added) will be updated following future data releases to include methodology, strengths and limitations, and a fuller assessment of feasibility.</p>`          
     ]
   );
 

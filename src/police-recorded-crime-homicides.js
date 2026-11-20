@@ -141,7 +141,8 @@ window.addEventListener("DOMContentLoaded", async () => {
                     <p> Homicide classifications may be revised as investigations progress or cases are concluded, and figures for recent years are therefore subject to revision. Revisions were made to the homicide time series for the period 2014/15 to 2023/24 following a review of this data in 2024/25.
                     <p>Changes in reporting behaviour, recording practices and data revisions should be considered when interpreting trends over time.
                 </p>
-                <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>`,
+                <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
+                <p>Further information is available in the Technical Report. (link to be added)<p>`,
 
                 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
                  <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>   
@@ -151,11 +152,13 @@ window.addEventListener("DOMContentLoaded", async () => {
         <ul>
             <li><a href="${config.portal_url}table/PRCHOM" target="_blank">Victims of homicide recorded</a> - by victim age and gender</li>
         </ul>
+        <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
 <p><strong>Data source</strong>: Data is sourced from the PSNI Police Recorded Crime Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p> 
 <p>Please note, this page is not updated using the PSNI Homicide bulletin or monthly police recorded crime releases. For the most up-to-date homicide data, please refer to the link below.
 </p>
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
-<p><strong>Updates:</strong> Data is updated annually in May; only in cases of revised figures will data be updated in November.</p>
+<p>Further information is available in the Technical Report. (link to be added)<p>
+<p><strong>Updates:</strong> Data updated annually in May; only in cases of revised figures will data be updated in November.</p>
                 </p>`,
 
                 `<p>This tab presents data on the number of homicide victims in Northern Ireland, including their age and gender. Homicide recorded by the police includes murder, manslaughter, corporate manslaughter and infanticide.<p>
@@ -163,7 +166,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     <li><strong>What it tells us:</strong> Homicide is rare but represents the most severe outcome of gender-based violence.</li>
     <li><strong>Why it matters:</strong> These figures underline the importance of early intervention and risk assessment to prevent escalation.</li>
     <li><strong>How to use it:</strong> Incorporate insights into high-risk case management and multi-agency safeguarding approaches.</li>
-    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report for further information on the strengths and limitations of the data.<br>
+    <li><strong>Strengths/Limitations:</strong> Please refer to the Technical Report (link to be added) for further information on the strengths and limitations of the data.<br>
     </li>
 </ul>`
             
