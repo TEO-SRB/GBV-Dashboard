@@ -32,15 +32,8 @@ window.addEventListener("DOMContentLoaded", async () => {
     `;
 
     let data = await readData("PRCVCTM");
-    let online_data = await readData("PRCONLCG");
 
     const stat = "All crimes recorded by the police";
-    const online_stat = "Total recorded online crime";
-    const online_years = Object.keys(online_data.data[online_stat]);
-
-    for (let i = 0; i < online_years.length; i ++) {
-        data.data[stat][online_years[i]]["Online offences"] = {"All ages": online_data.data[online_stat][online_years[i]]};
-    }
 
     const update_date = new Date(data.updated).toLocaleDateString("en-GB",
         {

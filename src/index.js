@@ -9,11 +9,11 @@ window.addEventListener("DOMContentLoaded", async () => {
     insertHeader();
     // insertNavButtons();
     // Insert values into homepage cards
-    const EXPVAS = await readData("EXPVAS");
-    const EXPVAS_stat = "Adult victims of violence";
-    updateYearSpans(EXPVAS, EXPVAS_stat);
+    const EXPGBVAG = await readData("EXPGBVAG");
+    const EXPGBVAG_stat = "Adult victims of violence";
+    updateYearSpans(EXPGBVAG, EXPGBVAG_stat);
 
-    insertValue("violence-women", 100 - EXPVAS.data[EXPVAS_stat][latest_year]["No forms of violence"]["Female"]);
+    insertValue("violence-women", EXPGBVAG.data[EXPGBVAG_stat][latest_year]["All ages"]["Female"]);
 
     insertValue("violence-women-year", latest_year);
 
@@ -70,7 +70,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
     // Case processing times - average days to complete
     const CPTALCRM = await readData("CPTALCRM");
-    const CPTALCRM_stat = "Average time taken to complete criminal cases";
+    const CPTALCRM_stat = "Median days taken to process";
     updateYearSpans(CPTALCRM, CPTALCRM_stat);
 
     insertValue("sexual-days", CPTALCRM.data[CPTALCRM_stat][latest_year]["Offence category - Sexual"]);

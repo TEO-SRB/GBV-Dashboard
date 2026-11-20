@@ -33,7 +33,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         });
 
         // Update values
-    const stat = "Average time taken to complete criminal cases";
+    const stat = "Median days taken to process";
     const dom_stat = "Median days taken to process";
     const dom_years = Object.keys(dom_data.data[dom_stat]);
 
