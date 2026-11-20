@@ -236,7 +236,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     <p><strong>Relationship of perpetrator:</strong>  The relationship of the perpetrator to the victim is based on the single worst incident, as determined by the respondent. <br>
     For ease of presentation in the chart above the following relationship types have been shortened:</p>
     <ul>${relationship_definitions}</ul>
-    <p>Further information is available in the Technical Report. (link to be added)<p>`,
+    <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
 
     `<p>This section presents findings from the 2018/19 <strong>Northern Ireland Safe Community Survey (NISCS)</strong>. The NISCS (previously known as the Northern Ireland Crime Survey) is a representative, continuous, personal interview survey of the experiences and perceptions of crime, of adults living in private households throughout Northern Ireland.</p>
     <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from the Northern Ireland Safe Community Survey (NISCS) published by the <b>Department of Justice (DoJ)</b>.</p>
@@ -251,7 +251,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
     <p>Statistical publications can be found on the <a href="https://www.justice-ni.gov.uk/publications/experience-domestic-abuse-findings-201819-northern-ireland-safe-community-survey" target="_blank">Department of Justice website</a>.</p>
-    <p>Further information is available in the Technical Report. (link to be added)<p>
+    <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
     <p><strong>Updates:</strong> Next update due in 2027; data will be updated biennially thereafter.</p>`,
 
     `<p>This tab provides an overview of how common domestic abuse is, based on self-reported experiences from survey respondents.</p>
@@ -261,7 +261,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <li><strong>How to use it:</strong> Use these figures to inform policy development, prevention strategies, and resource allocation for victim support. They can also guide awareness campaigns aimed at encouraging reporting and help-seeking.</li>
         <li><strong>Strengths/Limitations:</strong> Self-reported data can be affected by stigma or reluctance to disclose, so actual prevalence may be higher. Interpret these figures alongside criminal case data for a complete picture.</li>
     </ul>
-    <p>The Technical Report (link to be added) will be updated following future data releases to include methodology, strengths and limitations, and a fuller assessment of feasibility.</p>`          
+    <p>The <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a> will be updated following future data releases to include methodology, strengths and limitations, and a fuller assessment of feasibility.</p>`          
     ]
   );
 
