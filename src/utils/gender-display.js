@@ -93,12 +93,15 @@ export function genderDisplay () {
 
   function resizeRows () {
     const chart_row = document.getElementById("chart-row");
+    const relationship_chart = document.getElementById("relationship-chart");
 
     if (chart_row) {
       if (selectedGender != "all") {
         chart_row.classList.remove("row-cols-xl-3");
         chart_row.classList.add("row-cols-xl-2");
+        relationship_chart?.classList.add("d-none");
       } else {
+        relationship_chart?.classList.remove("d-none");
         chart_row.classList.add("row-cols-xl-3");
         chart_row.classList.remove("row-cols-xl-2");
       }
