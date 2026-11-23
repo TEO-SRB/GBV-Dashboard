@@ -141,7 +141,7 @@ window.addEventListener("DOMContentLoaded", async () => {
                     <p> Homicide classifications may be revised as investigations progress or cases are concluded, and figures for recent years are therefore subject to revision. Revisions were made to the homicide time series for the period 2014/15 to 2023/24 following a review of this data in 2024/25.
                     <p>Changes in reporting behaviour, recording practices and data revisions should be considered when interpreting trends over time.
                 </p>
-                <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
+                <p>For additional considerations on Police Recorded Crime, please see the <a href"https://explore.nisra.gov.uk/gender-based-violence-dashboard/information" target="_blank">Information</a> page.</p>
                 <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Police_Recorded_Crime_Data:_Homicide_and_Domestic_Abuse_Homicide" target="_blank">Technical Report</a>.<p>`,
 
                 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>

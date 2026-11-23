@@ -111,7 +111,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <p>The offence categories displayed here have been selected to provide an indication of violence against women and girls (VAWG). While this interim set has been developed to support this approach, it does not capture all forms of VAWG and may include offences that are not related to this issue. Further information on this approach can be found within the Technical Report.</p>
             <p>The location is based on where the offences take place.</p>
             <p>Crime population rates are calculated using the Northern Ireland mid-year population estimates published by NISRA.</p>
-            <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
+            <p>For additional considerations on Police Recorded Crime, please see the <a href"https://explore.nisra.gov.uk/gender-based-violence-dashboard/information" target="_blank">Information</a> page.</p>
             <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#police-recorded-crime-data-interim-vawg-offences-and-domestic-abuse" target="_blank">Technical Report</a>.<p>`,
 
             `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
