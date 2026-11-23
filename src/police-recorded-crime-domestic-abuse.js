@@ -137,7 +137,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>'All other offences' includes the PSNI crime types: <em>Theft (inc burglary), Criminal damage,</em> and <em>All other offences.</em></p>
         <p>There is overlap between the domestic abuse statistics presented here and the offences included on the interim VAWG offences tab. For example, some offences within the interim VAWG offence set will also be included in the domestic abuse statistics where they have been flagged as domestic abuse related. However, the domestic abuse statistics also include offences from other offence categories that are not currently part of the interim VAWG offence set.</p>
         <p>While victim gender is available, police recorded domestic abuse crime does not identify gender-based violence.</p>
-        <p>For additional considerations on Police Recorded Crime, please see the <a href"https://explore.nisra.gov.uk/gender-based-violence-dashboard/information" target="_blank">Information</a> page.</p>
+        <p>For additional considerations on Police Recorded Crime, please see the <a href="information.html">Information</a> page.</p>
         <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#police-recorded-crime-data-interim-vawg-offences-and-domestic-abuse" target="_blank">Technical Report</a>.<p>`,
 
         
