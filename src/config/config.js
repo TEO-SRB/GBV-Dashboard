@@ -5,11 +5,11 @@ export const config = {
     // Set order of page links and display text in navigation bar
     "navigation": [
         { href: "index.html", text: "Home" },
-        { href: "police-recorded-crime-evawg.html", text: "Interim VAWG offences" },
-        { href: "police-recorded-crime-domestic-abuse.html", text: "Domestic abuse" },
-        { href: "police-recorded-crime-homicides.html", text: "Homicides" },
-        { href: "domestic-homicides.html", text: "Domestic abuse homicides"},
-        { href: "maps.html", text: "Maps - Interim VAWG offences" },
+        { href: "prc-interim-vawg-offences.html", text: "Interim VAWG offences" },
+        { href: "prc-domestic-abuse.html", text: "Domestic abuse" },
+        { href: "prc-homicides.html", text: "Homicides" },
+        { href: "prc-domestic-abuse-homicides.html", text: "Domestic abuse homicides"},
+        { href: "prc-maps-interim-vawg-offences.html", text: "Maps - Interim VAWG offences" },
         { href: "violence-against-women-and-men.html", text: "Violence against women and men" },
         { href: "violence-against-girls-and-boys.html", text: "Violence against girls and boys" },
         { href: "domestic-abuse.html", text: "Domestic abuse" },

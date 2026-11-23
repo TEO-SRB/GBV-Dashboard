@@ -79,9 +79,7 @@ export function insertNavButtons() {
 
     // Police recorded crime tabs
     if (
-      href.includes("police-recorded-crime") ||
-      href === "domestic-homicides.html" ||
-      href === "maps.html"
+      href.includes("prc")
     ) {
       return "blue-nav";
     }
