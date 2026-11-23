@@ -105,7 +105,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 </ul>
 
 <p>While this definition of gender-based violence is provided, respondents must make their own assessment as to whether an experience occurred because of their gender. As a result, some respondents may not identify themselves as victims due to differences in awareness, understanding and perceptions of gender-based violence. Alternatively, some respondents may misunderstand and report as gender-based violence when the violence is not related to their gender.</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Survey_Data" target="_blank">Technical Report</a>.<p>`,
 
 `<p>The <strong>Young Life and Times (YLT) Survey</strong> is an annual survey that captures the attitudes and opinions of <b>16-year-olds</b> in Northern Ireland. It is designed to give young people a voice on social and policy issues that affect them. It has been running since 2003 and provides a time series on key social and policy issues. </p>
 <p>Fieldwork for the YLT Survey is carried out annually between April and May. Due to demand for questions, the survey is split into two versions. In 2024, 1,156 respondents <b>aged 16</b> completed the version containing the Gender-Based Violence module. The module is sponsored by The Executive Office.</p>
@@ -117,7 +117,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
 <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-16-year-olds-northern-ireland" target="_blank">The Executive Office website</a>.</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Survey_Data" target="_blank">Technical Report</a>.<p>
 <p><strong>Updates:</strong> Data updated annually.</p>`,
 
 `<p>This tab presents findings from the Young Life and Times survey, capturing the views and experiences of young people (aged 16) in Northern Ireland regarding violence and abuse.</p>

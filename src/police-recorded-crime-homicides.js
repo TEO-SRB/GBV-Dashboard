@@ -142,7 +142,7 @@ window.addEventListener("DOMContentLoaded", async () => {
                     <p>Changes in reporting behaviour, recording practices and data revisions should be considered when interpreting trends over time.
                 </p>
                 <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
-                <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
+                <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Police_Recorded_Crime_Data:_Homicide_and_Domestic_Abuse_Homicide" target="_blank">Technical Report</a>.<p>`,
 
                 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
                  <p>The data presented on this page are <strong>Accredited Official Statistics</strong> derived from police recorded crime data.</p>   
@@ -157,7 +157,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 <p>Please note, this page is not updated using the PSNI Homicide bulletin or monthly police recorded crime releases. For the most up-to-date homicide data, please refer to the link below.
 </p>
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/police-recorded-crime-statistics" target="_blank">PSNI - Police Recorded Crime Statistics website</a>.</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a><p>
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Police_Recorded_Crime_Data:_Homicide_and_Domestic_Abuse_Homicide" target="_blank">Technical Report</a><p>
 <p><strong>Updates:</strong> Data updated annually in May; only in cases of revised figures will data be updated in November.</p>
                 </p>`,
 

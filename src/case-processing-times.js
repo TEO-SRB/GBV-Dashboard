@@ -111,7 +111,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <p>This tab presents data on processing times for all criminal cases, alongside sexual offence and domestic abuse related cases. All criminal cases provide a wider comparator, while sexual offence and domestic abuse related cases are used as interim measures to provide insight into the timeliness of cases relevant to violence against women and girls.</p>
             <p>For case processing times data, sexual offence cases are based on cases where the principal offence (main offence) at disposal was a sexual offence. Where an offender is prosecuted or convicted of several offences on the same occasion, only one offence, the principal offence, is counted. Statistical coverage is restricted to those criminal prosecutions which were brought on behalf of the Police Service for Northern Ireland, the National Crime Agency, the Airport Constabulary or Harbour Police.</p>
             <p>For domestic abuse related cases, the average case processing time relates to cases where at least one offence in the case was prosecuted under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021.</p>
-            <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
+            <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#criminal-case-data-case-processing-times" target="_blank">Technical Report</a>.<p>`,
 
 `<p>The most recent average Case Processing Times for Criminal Cases dealt with in the Crown Court and in magistrates’ courts in Northern Ireland is for cases completed in 2025/26 and refers to the time from which the offence was reported to, or detected by, the police.</p>
 <p>The data presented on this page are <strong>Official Statistics</strong> derived from administrative records held within the Causeway Data Sharing Mechanism, a shared information system used by criminal justice organisations in Northern Ireland. The statistics are published by the <b>Department of Justice (DoJ)</b>.</p>
@@ -128,7 +128,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <li><a href="https://www.justice-ni.gov.uk/articles/domestic-abuse-prosecutions-convictions-and-case-processing-time-statistics" target="_blank">Domestic abuse cases</a></li>
     </ul>
     <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#criminal-case-data-case-processing-times" target="_blank">Technical Report</a>.<p>
     <p><strong>Updates:</strong> Data updated annually; updates include revisions to data reported in earlier financial years.</p>`,
 
 `<p>This tab shows how long it takes for cases related to violence and abuse to progress through the court system, from initial charge to final outcome.</p>

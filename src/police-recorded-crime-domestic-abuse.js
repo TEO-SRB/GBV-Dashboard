@@ -138,7 +138,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>There is overlap between the domestic abuse statistics presented here and the offences included on the interim VAWG offences tab. For example, some offences within the interim VAWG offence set will also be included in the domestic abuse statistics where they have been flagged as domestic abuse related. However, the domestic abuse statistics also include offences from other offence categories that are not currently part of the interim VAWG offence set.</p>
         <p>While victim gender is available, police recorded domestic abuse crime does not identify gender-based violence.</p>
         <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
-        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
+        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#police-recorded-crime-data-interim-vawg-offences-and-domestic-abuse" target="_blank">Technical Report</a>.<p>`,
 
         
         `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
@@ -154,7 +154,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p><strong>Data source</strong>: Data is sourced from the PSNI Domestic Abuse Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>
         <p>Please note, this page is not updated using the PSNI quarterly releases. For the most up-to-date data, please refer to the link below.</p>
         <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics" target="_blank">PSNI - Domestic Abuse Statistics website</a>.</p>
-        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#police-recorded-crime-data-interim-vawg-offences-and-domestic-abuse" target="_blank">Technical Report</a>.<p>
         <p><strong>Updates:</strong> Data updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
         `<p>This tab focuses on incidents flagged as domestic abuse, broken down by gender of victim and type of offence.</p>

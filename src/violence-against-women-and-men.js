@@ -156,7 +156,7 @@ window.addEventListener("DOMContentLoaded", async () => {
             <li><strong>Online Violence:</strong> Receiving threats online or via social media, online trolling, or being sent or being asked for intimate images against your will.</li>
 </ul>
         <p>While this definition of gender-based violence is provided, respondents must make their own assessment as to whether an experience occurred because of their gender. As a result, some respondents may not identify themselves as victims due to differences in awareness, understanding and perceptions of gender-based violence. Alternatively, some respondents may misunderstand and report as gender-based violence when the violence is not related to their gender.</p>
-        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Survey_Data" target="_blank">Technical Report</a>.<p>
         `,
 
         `<p>The <strong>Northern Ireland Life and Times (NILT) Survey</strong> is an annual survey, administered by ARK, that measures the attitudes, values and beliefs of adults <b>aged 18 years or over</b> on a wide range of social policy issues. It has been running since 1998 and provides a time series on key social and policy issues.</p>
@@ -171,7 +171,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
         <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-adults-northern-ireland" target="_blank">The Executive Office website</a>.</p>
-        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+        <p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Survey_Data" target="_blank">Technical Report</a>.<p>
         <p><strong>Updates:</strong> Data updated annually.</p>`,
 
         `<p>This tab presents findings from the Northern Ireland Life and Times survey, capturing self-reported experiences of violence and abuse among women and men aged 18 years or over.</p>

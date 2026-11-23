@@ -164,7 +164,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 'Threatening, controlling, coercive behaviour, violence or abuse (psychological, virtual, physical, verbal, sexual, financial or emotional) inflicted on anyone (irrespective of age, ethnicity, religion, gender, gender identity, sexual orientation or any form of disability) by a current or former partner or family member.'<br>
 Therefore, if a homicide arises within that relationship context (partner or family) and stems from behaviours aligned with domestic abuse, it is recorded as a domestic abuse motivated homicide.</p>
 <p>For additional considerations on Police Recorded Crime, please see the Information tab. (link to be added)</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>`,
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Police_Recorded_Crime_Data:_Homicide_and_Domestic_Abuse_Homicide" target="_blank">Technical Report</a>.<p>`,
 
 `<p>Statistics on police recorded crime in Northern Ireland are collated and produced by statisticians seconded to the <strong>Police Service of Northern Ireland (PSNI)</strong> from the <strong>Northern Ireland Statistics and Research Agency (NISRA)</strong>.</p>
 <p>The data presented on this page are <strong>Official Statistics</strong> derived from police recorded crime data.</p>
@@ -179,7 +179,7 @@ Therefore, if a homicide arises within that relationship context (partner or fam
 <p><strong>Data source</strong>: Data is sourced from the PSNI Domestic Abuse Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>
 <p>Please note, this page is not updated using the PSNI Homicide bulletin or quarterly releases. For the most up-to-date homicide data, please refer to the link below.</p>
 <p>Statistical publications can be found on the <a href="https://www.psni.police.uk/about-us/our-publications-and-reports/official-statistics/domestic-abuse-statistics" target="_blank">PSNI - Domestic Abuse Statistics website</a>.</p>
-<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html" target="_blank">Technical Report</a>.<p>
+<p>Further information is available in the <a href="https://datavis.nisra.gov.uk/executiveofficeni/gender-based-violence-dashboard-technical-report.html#Police_Recorded_Crime_Data:_Homicide_and_Domestic_Abuse_Homicide" target="_blank">Technical Report</a>.<p>
 <p><strong>Updates:</strong> Data updated annually in May; only in cases of revised figures will data be updated in November.</p>`,
 
 `<p>This tab presents data on homicides recorded by the police in Northern Ireland as having a domestic abuse motivation, including information on the victim’s age, gender and relationship to the offender.</p>
