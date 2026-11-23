@@ -167,7 +167,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
             <li><a href="${config.portal_url}table/EXPVLADEQ" target="_blank">Experience of gender-based violence - adults</a> - by violence type and equality group</li>
-            <li><a href="${config.portal_url}table/EXPGBVAG" target="_blank">Experience of gender-based violence - adults</a> - by victim age and victim gender</li>
+            <li><a href="${config.portal_url}table/EXPGBVAG" target="_blank">Experience of gender-based violence - adults by age group</a> - by victim age and victim sex</li>
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
         <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-adults-northern-ireland" target="_blank">The Executive Office website</a>.</p>

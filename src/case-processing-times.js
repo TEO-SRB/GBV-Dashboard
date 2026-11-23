@@ -120,7 +120,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
     <ul>
         <li><a href="${config.portal_url}table/CPTALCRM" target="_blank">Processing times for sexual offence cases</a> - by case type</li>
-        <li><a href="${config.portal_url}table/CPTDAC" target="_blank">Processing times for domestic abuse cases</a> - by case type</li>      
+        <li><a href="${config.portal_url}table/CPTDAC" target="_blank">Processing times for domestic abuse related cases</a> - by case type</li>      
     </ul>
 <p>Statistical publications can be found on the Department of Justice website:
     <ul>

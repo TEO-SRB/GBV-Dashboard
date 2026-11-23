@@ -172,8 +172,8 @@ Therefore, if a homicide arises within that relationship context (partner or fam
 <p>The crime recording process starts at the point at which an incident comes to the attention of police. This may be brought through a call for service from a member of the public, an incident being referred to the police by another agency or being identified by the police directly.</p>
  <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
-            <li><a href="${config.portal_url}table/DAHVAG" target="_blank">Domestic abuse homicides recorded</a> - by victim age and gender</li>
-            <li><a href="${config.portal_url}table/DAHVGR" target="_blank">Domestic abuse homicides recorded</a> - by victim gender and relationship of victim to offender</li>
+            <li><a href="${config.portal_url}table/DAHVAG" target="_blank">Police recorded domestic abuse homicides</a> - by victim age and gender</li>
+            <li><a href="${config.portal_url}table/DAHVGR" target="_blank">Police recorded domestic abuse homicides - relationship of offender to victim</a> - by victim gender and relationship of offender to victim</li>
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
 <p><strong>Data source</strong>: Data is sourced from the PSNI Domestic Abuse Financial Year update, published each May. However, this publication is subsequently superseded by the corresponding Annual Trends publication, published each November. The Financial Year and Annual Trends publications use the same underlying data. Only in exceptional circumstances are revised figures included in the Annual Trends publication; where this occurs, this page will also be updated accordingly.</p>

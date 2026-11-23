@@ -113,7 +113,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 <p>In the time series above labelled 'Trend in prevalence of gender-based violence among 16-year-olds, 2023 to 2024', caution is required around comparing 2023 and 2024 data due to slight differences in question wording. In 2023 the question was, 'Based on this definition, and regardless of your gender, have you personally experienced any of the following in the last year?' whereas in 2024 the question was 'Based on this definition, and regardless of your gender, have you personally experienced any of the following in the last year because of your gender?'</p>
  <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
-            <li><a href="${config.portal_url}table/EXPVLYTHEQ" target="_blank">Experience of gender-based violence - 16 year olds</a> - by violence type and equality group</li>
+            <li><a href="${config.portal_url}table/EXPVLYTHEQ" target="_blank">Experience of gender-based violence - 16-year-olds</a> - by violence type and equality group</li>
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
 <p>Statistical publications can be found on <a href="https://www.executiveoffice-ni.gov.uk/topics/ending-violence-against-women-and-girls-experiences-and-attitudes-16-year-olds-northern-ireland" target="_blank">The Executive Office website</a>.</p>

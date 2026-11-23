@@ -246,7 +246,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   <p>This data is available on the <a href="${config.portal_url}" target="_blank">NISRA Data Portal</a> in the following tables:</p>
         <ul>
             <li><a href="${config.portal_url}table/EXPDA" target="_blank">Experience of domestic abuse</a> - by offence type, timeframe and victim gender</li>
-            <li><a href="${config.portal_url}table/LDARPG" target="_blank">Lifetime domestic abuse reported to the police</a> - by victim gender</li>
+            <li><a href="${config.portal_url}table/LDARPG" target="_blank">Reporting of lifetime domestic abuse to the police</a> - by victim gender</li>
             <li><a href="${config.portal_url}table/DARPV" target="_blank">Domestic abuse - relationship of perpetrator to victim</a> </li>        
         </ul>
         <p>Downloaded data may contain additional information not displayed in the chart. For alternative breakdowns, please use the linked Data Portal table.</p>
