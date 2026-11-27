@@ -904,7 +904,7 @@
   },
   "PRCHOM": {
     "label": "Police recorded crime - victims of homicide",
-    "updated": "2026-11-20",
+    "updated": "2026-11-27",
     "data": {
       "All homicides": {
         "2007/08": {
@@ -1187,13 +1187,13 @@
           },
           "18+ years": {
             "Female": 1,
-            "Male": 10,
+            "Male": 11,
             "All persons": "NA"
           },
           "All ages": {
             "Female": 2,
-            "Male": 11,
-            "All persons": 13
+            "Male": 12,
+            "All persons": 14
           }
         },
         "2024/25": {
@@ -1235,7 +1235,7 @@
   },
   "PRCPD": {
     "label": "Police recorded crime and crime population rate",
-    "updated": "2026-11-20",
+    "updated": "2026-11-27",
     "data": {
       "All crimes recorded by the police": {
         "2019/20": {
@@ -1584,11 +1584,11 @@
         },
         "2023/24": {
           "Northern Ireland": {
-            "Violence with injury (including homicide & death/serious injury by unlawful driving)": 14634,
+            "Violence with injury (including homicide & death/serious injury by unlawful driving)": 14635,
             "Violence without injury": 19125,
             "Stalking & Harassment": 10265,
             "Sexual offences": 4241,
-            "Total police recorded crime": 104200
+            "Total police recorded crime": 104201
           },
           "Antrim and Newtownabbey": {
             "Violence with injury (including homicide & death/serious injury by unlawful driving)": 896,
@@ -1654,11 +1654,11 @@
             "Total police recorded crime": 4909
           },
           "Newry, Mourne and Down": {
-            "Violence with injury (including homicide & death/serious injury by unlawful driving)": 1303,
+            "Violence with injury (including homicide & death/serious injury by unlawful driving)": 1304,
             "Violence without injury": 1368,
             "Stalking & Harassment": 1006,
             "Sexual offences": 331,
-            "Total police recorded crime": 8958
+            "Total police recorded crime": 8959
           },
           "Ards and North Down": {
             "Violence with injury (including homicide & death/serious injury by unlawful driving)": 878,
@@ -2449,7 +2449,7 @@
   },
   "PRCVCTM": {
     "label": "Police recorded crime - victims of crime",
-    "updated": "2026-11-20",
+    "updated": "2026-11-27",
     "data": {
       "All crimes recorded by the police": {
         "2007/08": {
@@ -2707,7 +2707,7 @@
         "2013/14": {
           "Violence with injury (including homicide & death/serious injury by unlawful driving)": {
             "All ages": {
-              "Female": 4950,
+              "Female": 4949,
               "Male": 8292,
               "Unknown": 6,
               "All persons": 13247
@@ -2739,7 +2739,7 @@
           },
           "Total police recorded crime": {
             "All ages": {
-              "Female": 33260,
+              "Female": 33259,
               "Male": 37325,
               "Unknown": 54,
               "All persons": 70638
@@ -3128,9 +3128,9 @@
           "Violence with injury (including homicide & death/serious injury by unlawful driving)": {
             "All ages": {
               "Female": 5989,
-              "Male": 7632,
+              "Male": 7633,
               "Unknown": 22,
-              "All persons": 13643
+              "All persons": 13644
             }
           },
           "Violence without injury": {
@@ -3160,9 +3160,9 @@
           "Total police recorded crime": {
             "All ages": {
               "Female": 34895,
-              "Male": 33934,
+              "Male": 33935,
               "Unknown": 124,
-              "All persons": 68953
+              "All persons": 68954
             }
           }
         },
